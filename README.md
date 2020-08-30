@@ -10,14 +10,14 @@
 | agile | ✅ [ˈæʷd͡ʒʷ əɫ̺] | ❌ /ə'dʒaɪl/ |
 | amazon | ✅ [ˈæ̃m ə ˌzɑ̃ːn˺] | ❌ /'əmeizən; ə'meizən/ |
 | analogy | ✅ [ə̃ ˈnæɫ̺ əʷ d͡ʒʷiː] | ❌ /ænə'lɒdʒi/ |
-| Angular | ✅ [ˈẽə̯̃ŋ ɡjə l̺ə˞ː] | ❌ /'æŋɡələ; 'æŋdʒʌlə/ |
+| Angular | ✅ [ˈæ̃ŋ ɡjə l̺ə˞ː] | ❌ /'æŋɡələ; 'æŋdʒʌlə/ |
 | AJAX | ✅ [ˈe̞ɪ̯ʷd͡ʒʷ ˌæks] | ❌ /ə'dʒʌks/ |
 | alias | ✅ [ˈe̞ɪ̯ɫ̺ iː əs] | ❌ /ə'lais/ |
 | Apache | ✅ [ə ˈpʰæʷʔt͡ʃʷ iː] | ❌ /ʌpʌtʃ/ |
 | app | ✅ [ˈæp] | ❌ /eipi'pi/ |
 | archive | ✅ [ˈɒə̯˞ ˌkʰɑ̟ɪ̯v] | ❌ /'ətʃɪv/ |
 | array | ✅ [ə˞ːʷ ˈɹ̠ʷe̞ɪ̯] | ❌ /æ'rei/ |
-| ASCII | ✅ [ˈeə̯sk iː] | ❌ /ɑːsk/ |
+| ASCII | ✅ [ˈæsk iː] | ❌ /ɑːsk/ |
 | aspect | ✅ [ˈeə̯sp ˌɛk˺ʔt] | ❌ /ə'spekt/ |
 | avatar | ✅ [ˈæv ə ˌtʰɒə̯˞] | ❌ /ə'vʌtɑ/ |
 | Azure | ✅ [ˈæʷʒʷ ə˞ː] | ❌ /ˈæzʊʒə/ |
@@ -39,7 +39,7 @@
 | Git |  | ❌ /dʒɪt/ |
 | GNU | ✅ [ˈnʊu̯] |  |
 | GUI |  |  |
-| Haskell | ✅ [ˈheə̯sk əɫ̺] | ❌ /hæˈskəl/ |
+| Haskell | ✅ [ˈhæsk əɫ̺] | ❌ /hæˈskəl/ |
 | height | ✅ [ˈhɑ̟ɪ̯ʔt] | ❌ /heɪt/ |
 | hidden | ✅ [ˈhɪ̈ʔdⁿ n̩˺] | ❌ /'haɪdn/ |
 | image | ✅ [ˈɪ̈̃m ɘʷd͡ʒʷ] | ❌ /ɪ'meɪdʒ/ |
@@ -73,7 +73,7 @@
 | resolved | ✅ [ɹ̠ʷiː ˈzɑːɫ̺vd] | ❌ /rɪ'səʊvd/ |
 | resort | ✅ [ɹ̠ʷɘ ˈzo̞ə̯˞ʔt] | ❌ /rɪˈsɔ:t/ |
 | retina | ✅ [ˈɹ̠ʷɛʔtⁿ n̊ə] | ❌ /ri'tina/ |
-| san jose | ✅ [ˌsẽə̯̃n ho̞ʊ̯ ˈze̞ɪ̯] | ❌ /sæn'ju:s/ |
+| San Jose | ✅ [ˌsæ̃n ho̞ʊ̯ ˈze̞ɪ̯] | ❌ /sæn'ju:s/ |
 | safari | ✅ [sə ˈfɒə̯˞ iː] | ❌ /sæfərɪ/ |
 | scheme | ✅ [ˈskĩːm] | ❌ /s'kæmə/ |
 | segue | ✅ [ˈsɛɡʷ we̞ɪ̯] | ❌ /se'dʒ/ |

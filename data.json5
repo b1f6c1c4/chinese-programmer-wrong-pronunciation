@@ -33,6 +33,7 @@
         word: 'Angular',
         pek: "'æŋɡələ; 'æŋdʒʌlə",
         ph: 'AE1 NG G Y AH0 L ER0',
+        aeHint: '0',
     },
     {
         word: 'AJAX',
@@ -68,6 +69,7 @@
         word: 'ASCII',
         pek: 'ɑːsk',
         ph: 'AE1 S K IY0',
+        aeHint: '0',
     },
     {
         word: 'aspect',
@@ -172,6 +174,7 @@
         word: 'Haskell',
         pek: 'hæˈskəl',
         ph: 'HH AE1 S K AH0 L',
+        aeHint: '0',
     },
     {
         word: 'height',
@@ -332,9 +335,10 @@
         ph: 'R EH1 T AH0 N AH0',
     },
     {
-        word: 'san jose',
+        word: 'San Jose',
         pek: "sæn'ju:s",
         ph: 'S AE2 N HH OW0 Z EY1',
+        aeHint: '0',
     },
     {
         word: 'safari',
