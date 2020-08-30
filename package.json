@@ -1,17 +1,12 @@
 {
-  "name": "chinese-programmer-wrong-pronunciation",
+  "name": "programming-pronunciations-en_us",
   "version": "0.0.0",
-  "description": "中国程序员容易发音错误的单词，纽约/北京口音对比",
+  "description": "程序员容易发音错误的单词，国际音标严式记音，正宗美国纽约口音",
   "private": true,
-  "scripts": {
-    "prepare": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/b1f6c1c4/chinese-programmer-wrong-pronunciation-en_US.git"
-  },
+  "repository": "git+https://github.com/b1f6c1c4/chinese-programmer-wrong-pronunciation-en_US.git",
   "author": "b1f6c1c4 <b1f6c1c4@gmail.com>",
   "dependencies": {
+    "ipa-jfk": "^0.1.0",
     "json5": "^2.1.3"
   }
 }
