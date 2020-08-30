@@ -12,17 +12,15 @@ for (let e of data) {
   if (e.pos) resW += ` _${e.pos}_`;
   let resJ = e.ph && jfk.process(e.ph, e.word, e.aeHint);
   resJ = resJ ? `✅ ${jfk.unicode(resJ)}` : '';
-  let resP = e.pek;
-  resP = resP ? `❌ /${resP}/` : '';
-  tbl += `| ${resW} | ${resJ} | ${resP} |\n`
+  tbl += `| ${resW} | ${resJ} |\n`
 }
 
 const readme = `# chinese-programmer-wrong-pronunciation-en\\_US
 
-中国程序员容易发音错误的单词，纽约/北京口音对比
+中国程序员容易发音错误的单词，纽约口音
 
-| 单词 | **正宗纽约口音** | **土味北京口音** |
-| ---- | ------- | ------- |
+| 单词 | **正宗纽约口音** |
+| ---- | ------- |
 ${tbl}
 
 # 看不懂，怎么办？
