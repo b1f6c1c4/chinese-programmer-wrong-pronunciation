@@ -1,0 +1,404 @@
+[
+    {
+        word: 'access',
+        pek: "ək'ses",
+        ph: 'AE1 K S EH2 S',
+    },
+    {
+        word: 'Adobe',
+        pek: 'əˈdub',
+        ph: 'AH0 D OW1 B IY0',
+    },
+    {
+        word: 'admin',
+        pek: "ɜ:d'mɪn",
+        ph: 'AE1 D M IH0 N',
+    },
+    {
+        word: 'agile',
+        pek: "ə'dʒaɪl",
+        ph: 'AE1 JH AH0 L',
+    },
+    {
+        word: 'amazon',
+        pek: "'əmeizən; ə'meizən",
+        ph: 'AE1 M AH0 Z AA2 N',
+    },
+    {
+        word: 'analogy',
+        pek: "ænə'lɒdʒi",
+        ph: 'AH0 N AE1 L AH0 JH IY0',
+    },
+    {
+        word: 'Angular',
+        pek: "'æŋɡələ; 'æŋdʒʌlə",
+        ph: 'AE1 NG G Y AH0 L ER0',
+    },
+    {
+        word: 'AJAX',
+        pek: "ə'dʒʌks",
+        ph: 'EY1 JH AE2 K S',
+    },
+    {
+        word: 'alias',
+        pek: "ə'lais",
+        ph: 'EY1 L IY0 AH0 S',
+    },
+    {
+        word: 'Apache',
+        pek: 'ʌpʌtʃ',
+        ph: 'AH0 P AE1 CH IY0',
+    },
+    {
+        word: 'app',
+        pek: "eipi'pi",
+        ph: 'AE1 P',
+    },
+    {
+        word: 'archive',
+        pek: "'ətʃɪv",
+        ph: 'AA1 R K AY2 V',
+    },
+    {
+        word: 'array',
+        pek: "æ'rei",
+        ph: 'ER0 EY1',
+    },
+    {
+        word: 'ASCII',
+        pek: 'ɑːsk',
+        ph: 'AE1 S K IY0',
+    },
+    {
+        word: 'aspect',
+        pek: "ə'spekt",
+        ph: 'AE1 S P EH2 K T',
+    },
+    {
+        word: 'avatar',
+        pek: "ə'vʌtɑ",
+        ph: 'AE1 V AH0 T AA2 R',
+    },
+    {
+        word: 'Azure',
+        pek: 'ˈæzʊʒə',
+        ph: 'AE1 ZH ER0',
+    },
+    {
+        word: 'bind',
+        pek: 'bɪnd',
+        ph: 'B AY1 N D',
+    },
+    {
+        word: 'cache',
+        pek: 'kætʃ',
+        ph: 'K AE1 SH',
+    },
+    {
+        word: 'clang',
+        pek: 'sɪlæŋ',
+        ph: 'K L AE1 NG',
+    },
+    {
+        word: 'Daemon',
+        pek: 'dæmən',
+        ph: 'D IY1 M AH0 N',
+    },
+    {
+        word: 'deny',
+        pek: "'dæni",
+        ph: 'D IH0 N AY1',
+    },
+    {
+        word: 'deque',
+        pek: "di'kju",
+    },
+    {
+        word: 'digest',
+        pos: 'n.',
+        pek: "'dɪgɛst",
+        ph: 'D AY1 JH EH0 S T',
+    },
+    {
+        word: 'digest',
+        pos: 'v.',
+        pek: "'dɪgɛst",
+        ph: 'D AY0 JH EH1 S T',
+    },
+    {
+        word: 'Dijkstra',
+    },
+    {
+        word: 'Django',
+        pek: 'diˈdʒæŋɡoʊ',
+    },
+    {
+        word: 'doc',
+        pek: 'daʊk',
+        ph: 'D AA1 K',
+    },
+    {
+        word: 'event',
+        pek: "'ɪvənt",
+        ph: 'IH0 V EH1 N T',
+    },
+    {
+        word: 'facade',
+        pek: "'feikeid",
+        ph: 'F AH0 S AA1 D',
+    },
+    {
+        word: 'fedora',
+        pek: "'fedərə",
+        ph: 'F IH0 D AO1 R AH0',
+    },
+    {
+        word: 'format',
+        pek: "fɔ'mæt",
+        ph: 'F AO1 R M AE2 T',
+    },
+    {
+        word: 'Git',
+        pek: 'dʒɪt',
+    },
+    {
+        word: 'GNU',
+        ph: 'N UW1',
+    },
+    {
+        word: 'GUI',
+    },
+    {
+        word: 'Haskell',
+        pek: 'hæˈskəl',
+        ph: 'HH AE1 S K AH0 L',
+    },
+    {
+        word: 'height',
+        pek: 'heɪt',
+        ph: 'HH AY1 T',
+    },
+    {
+        word: 'hidden',
+        pek: "'haɪdn",
+        ph: 'HH IH1 D AH0 N',
+    },
+    {
+        word: 'image',
+        pek: "ɪ'meɪdʒ",
+        ph: 'IH1 M IH0 JH',
+    },
+    {
+        word: 'implement',
+        pek: "ɪm'plem(ə)nt",
+        ph: 'IH1 M P L AH0 M AH0 N T',
+    },
+    {
+        word: 'integer',
+        pek: 'ˈɪntaɪgə',
+        ph: 'IH1 N T AH0 JH ER0',
+    },
+    {
+        word: 'issue',
+        pek: 'ˈaɪʃuː',
+        ph: 'IH1 SH UW0',
+    },
+    {
+        word: 'Java',
+        pek: "'dʒɑːvɑː",
+        ph: 'JH AA1 V AH0',
+    },
+    {
+        word: 'jpeg',
+        pek: 'ˈdʒeɪˈpi:ˈdʒiː',
+    },
+    {
+        word: 'key',
+        pek: 'kei',
+        ph: 'K IY1',
+    },
+    {
+        word: 'lambda',
+        pek: 'ˈlɒŋmdɑ',
+        ph: 'L AE1 M D AH0',
+    },
+    {
+        word: 'linear',
+        pek: "'laɪə",
+        ph: 'L IH1 N IY0 ER0',
+    },
+    {
+        word: 'Linux',
+        pek: 'ˈlɪnʌks; ˈlɪnjuːks',
+        ph: 'L IH1 N AH0 K S',
+    },
+    {
+        word: 'locale',
+        pek: 'ˈloʊk(ə)l',
+        ph: 'L OW0 K AE1 L',
+    },
+    {
+        word: 'main',
+        pek: 'mɪn',
+        ph: 'M EY1 N',
+    },
+    {
+        word: 'margin',
+        pek: "'mʌgɪn",
+        ph: 'M AA1 R JH AH0 N',
+    },
+    {
+        word: 'matrix',
+        pek: 'ˈmɑ:trɪks',
+        ph: 'M EY1 T R IH0 K S',
+    },
+    {
+        word: 'maven',
+        pek: "'maːvn",
+        ph: 'M EY1 V AH0 N',
+    },
+    {
+        word: 'Microsoft',
+        pek: "'mikrəusɔft",
+        ph: 'M AY1 K R OW2 S AO1 F T',
+    },
+    {
+        word: 'module',
+        pek: "'məʊdl",
+        ph: 'M AA1 JH UW0 L',
+    },
+    {
+        word: 'nginx',
+    },
+    {
+        word: 'null',
+        pek: 'naʊ',
+        ph: 'N AH1 L',
+    },
+    {
+        word: 'OS X',
+    },
+    {
+        word: 'phantom',
+        pek: "'pæntəm",
+        ph: 'F AE1 N T AH0 M',
+    },
+    {
+        word: 'parameter',
+        pek: "'pærəmɪtə",
+        ph: 'P ER0 AE1 M AH0 T ER0',
+    },
+    {
+        word: 'privilege',
+        pek: "'prɪvɪlɪdʒ",
+        ph: 'P R IH1 V IH0 L IH0 JH',
+    },
+    {
+        word: 'putty',
+        pek: 'ˈpuːti',
+        ph: 'P AH1 T IY0',
+    },
+    {
+        word: 'query',
+        pek: "'kwaɪri",
+        ph: 'K W IY1 R IY0',
+    },
+    {
+        word: 'Qt',
+    },
+    {
+        word: 'Realm',
+        pek: 'riəlm',
+        ph: 'R EH1 L M',
+    },
+    {
+        word: 'resume',
+        pek: "rɪ'sju:m",
+        ph: 'R IH0 Z UW1 M',
+    },
+    {
+        word: 'resolved',
+        pek: "rɪ'səʊvd",
+        ph: 'R IY0 Z AA1 L V D',
+    },
+    {
+        word: 'resort',
+        pek: 'rɪˈsɔ:t',
+        ph: 'R IH0 Z AO1 R T',
+    },
+    {
+        word: 'retina',
+        pek: "ri'tina",
+        ph: 'R EH1 T AH0 N AH0',
+    },
+    {
+        word: 'san jose',
+        pek: "sæn'ju:s",
+        ph: 'S AE2 N HH OW0 Z EY1',
+    },
+    {
+        word: 'safari',
+        pek: 'sæfərɪ',
+        ph: 'S AH0 F AA1 R IY0',
+    },
+    {
+        word: 'scheme',
+        pek: "s'kæmə",
+        ph: 'S K IY1 M',
+    },
+    {
+        word: 'segue',
+        pek: "se'dʒ",
+        ph: 'S EH1 G W EY0',
+    },
+    {
+        word: 'SQL',
+    },
+    {
+        word: 'sudo',
+    },
+    {
+        word: 'suite',
+        pek: 'sjuːt',
+        ph: 'S W IY1 T',
+    },
+    {
+        word: 'typical',
+        pek: "'taɪpɪkəl",
+        ph: 'T IH1 P IH0 K AH0 L',
+    },
+    {
+        word: 'Ubuntu',
+        pek: "juː'bʊntʊ",
+        ph: 'UW2 B UW1 T UW2',
+    },
+    {
+        word: 'variable',
+        pek: "və'raiəbl",
+        ph: 'V EH1 R IY0 AH0 B AH0 L',
+    },
+    {
+        word: 'vue',
+        pek: "v'ju:i",
+        ph: 'V Y UW1',
+    },
+    {
+        word: 'width',
+        pek: 'waɪdθ',
+        ph: 'W IH1 D TH',
+    },
+    {
+        word: 'YouTube',
+        pek: "'juː'tʊbɪ",
+        ph: 'Y UW1 T UW2 B',
+    },
+    {
+        word: 'Lucene',
+        pek: "'lu:sən",
+    },
+    {
+        word: 'debt',
+        pek: "de'bit",
+        ph: 'D EH1 T',
+    },
+]

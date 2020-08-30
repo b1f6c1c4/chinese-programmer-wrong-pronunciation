@@ -5,87 +5,88 @@
 | 单词 | **正宗纽约口音** | **土味北京口音** |
 | ---- | ------- | ------- |
 | access | ✅ [ˈæk ˌsɛs] | ❌ /ək'ses/ |
-| Adobe | ✅ [ə ˈdoʊb iː] | ❌ /əˈdub/ |
-| admin | ✅ [ˈeəʔdⁿ mɘn˺] | ❌ /ɜ:d'mɪn/ |
-| agile | ✅ [ˈæʷdʒʷ əɫ] | ❌ /ə'dʒaɪl/ |
-| amazon | ✅ [ˈæm ə ˌzɑːn˺] | ❌ /'əmeizən; ə'meizən/ |
-| analogy | ✅ [ə ˈnæɫ əʷ dʒʷiː] | ❌ /ænə'lɒdʒi/ |
-| Angular | ✅ [ˈeəŋ ɡjə lə˞ː] | ❌ /'æŋɡələ; 'æŋdʒʌlə/ |
-| AJAX | ✅ [ˈeɪʷdʒʷ ˌæks] | ❌ /ə'dʒʌks/ |
-| alias | ✅ [ˈeɪɫ iː əs] | ❌ /ə'lais/ |
-| Apache | ✅ [ə ˈpʰæʷʔtʃʷ iː] | ❌ /ʌpʌtʃ/ |
+| Adobe | ✅ [ə ˈdo̞ʊ̯b iː] | ❌ /əˈdub/ |
+| admin | ✅ [ˈeə̯ʔdⁿ mɘ̃n˺] | ❌ /ɜ:d'mɪn/ |
+| agile | ✅ [ˈæʷd͡ʒʷ əɫ̺] | ❌ /ə'dʒaɪl/ |
+| amazon | ✅ [ˈæ̃m ə ˌzɑ̃ːn˺] | ❌ /'əmeizən; ə'meizən/ |
+| analogy | ✅ [ə̃ ˈnæɫ̺ əʷ d͡ʒʷiː] | ❌ /ænə'lɒdʒi/ |
+| Angular | ✅ [ˈẽə̯̃ŋ ɡjə l̺ə˞ː] | ❌ /'æŋɡələ; 'æŋdʒʌlə/ |
+| AJAX | ✅ [ˈe̞ɪ̯ʷd͡ʒʷ ˌæks] | ❌ /ə'dʒʌks/ |
+| alias | ✅ [ˈe̞ɪ̯ɫ̺ iː əs] | ❌ /ə'lais/ |
+| Apache | ✅ [ə ˈpʰæʷʔt͡ʃʷ iː] | ❌ /ʌpʌtʃ/ |
 | app | ✅ [ˈæp] | ❌ /eipi'pi/ |
-| archive | ✅ [ˈɒə˞ ˌkʰɑɪv] | ❌ /'ətʃɪv/ |
-| array | ✅ [ə˞ːʷ ˈɹʷeɪ] | ❌ /æ'rei/ |
-| ASCII | ✅ [ˈeəsk iː] | ❌ /ɑːsk/ |
-| aspect | ✅ [ˈeəsp ˌɛk˺ʔt] | ❌ /ə'spekt/ |
-| avatar | ✅ [ˈæv ə ˌtʰɒə˞] | ❌ /ə'vʌtɑ/ |
+| archive | ✅ [ˈɒə̯˞ ˌkʰɑ̟ɪ̯v] | ❌ /'ətʃɪv/ |
+| array | ✅ [ə˞ːʷ ˈɹ̠ʷe̞ɪ̯] | ❌ /æ'rei/ |
+| ASCII | ✅ [ˈeə̯sk iː] | ❌ /ɑːsk/ |
+| aspect | ✅ [ˈeə̯sp ˌɛk˺ʔt] | ❌ /ə'spekt/ |
+| avatar | ✅ [ˈæv ə ˌtʰɒə̯˞] | ❌ /ə'vʌtɑ/ |
 | Azure | ✅ [ˈæʷʒʷ ə˞ː] | ❌ /ˈæzʊʒə/ |
-| bind | ✅ [ˈbɑɪnd] | ❌ /bɪnd/ |
-| cache | ✅ [ˈkʰeəʷʃʷ] | ❌ /kætʃ/ |
-| clang | ✅ [ˈkʰleəŋ˺] | ❌ /sɪlæŋ/ |
-| Daemon | ✅ [ˈdiːm ən˺] | ❌ //dæmən// |
-| deny | ✅ [dɘ ˈnɑɪ] | ❌ /'dæni/ |
-| deque | ✅ | ❌ /di'kju/ |
-| digest | ✅ n. [dɑɪʷ ˈdʒʷɛsʔt] v. [ˈdɑɪʷdʒʷ ɛsʔt] | ❌ /'dɪgɛst/ |
-| Dijkstra | ✅ |  |
-| Django | ✅ | ❌ /diˈdʒæŋɡoʊ/ |
+| bind | ✅ [ˈbɑ̟̃ɪ̯̃nd] | ❌ /bɪnd/ |
+| cache | ✅ [ˈkʰeə̯ʷʃʷ] | ❌ /kætʃ/ |
+| clang | ✅ [ˈkʰl̺̊ẽə̯̃ŋ˺] | ❌ /sɪlæŋ/ |
+| Daemon | ✅ [ˈdĩːm ə̃n˺] | ❌ /dæmən/ |
+| deny | ✅ [dɘ̃ ˈnɑ̟ɪ̯] | ❌ /'dæni/ |
+| deque |  | ❌ /di'kju/ |
+| digest _n._ | ✅ [ˈdɑ̟ɪ̯ʷd͡ʒʷ ɛsʔt] | ❌ /'dɪgɛst/ |
+| digest _v._ | ✅ [dɑ̟ɪ̯ʷ ˈd͡ʒʷɛsʔt] | ❌ /'dɪgɛst/ |
+| Dijkstra |  |  |
+| Django |  | ❌ /diˈdʒæŋɡoʊ/ |
 | doc | ✅ [ˈdɑːk] | ❌ /daʊk/ |
-| event | ✅ [ɘ ˈvɛnʔt] | ❌ /'ɪvənt/ |
+| event | ✅ [ɘ ˈvɛ̃nʔt] | ❌ /'ɪvənt/ |
 | facade | ✅ [fə ˈsɑːd] | ❌ /'feikeid/ |
-| fedora | ✅ [fɘ ˈdoə˞ ə] | ❌ /'fedərə/ |
-| format | ✅ [ˈfoə˞ ˌmæʔt] | ❌ /fɔ'mæt/ |
-| Git | ✅ | ❌ /dʒɪt/ |
-| GNU | ✅ [ˈnʊu] | |
-| GUI | ✅ | |
-| Haskell | ✅ [ˈheəsk əɫ] | ❌ /hæˈskəl/ |
-| height | ✅ [ˈhɑɪʔt] | ❌ /heɪt/ |
-| hidden | ✅ [ˈhɪʔdⁿ n˺] | ❌ /'haɪdn/ |
-| image | ✅ [ˈɪm ɘʷdʒʷ] | ❌ /ɪ'meɪdʒ/ |
-| implement | ✅ [ˈɪmp lə mənʔt] | ❌ /ɪm'plem(ə)nt/ |
-| integer | ✅ [ˈɪn əʷ dʒʷə˞ː] | ❌ /ˈɪntaɪgə/ |
-| issue | ✅ [ˈɪʷʃʷ ʊu] | ❌ /ˈaɪʃuː/ |
-| Java | ✅ [ˈdʒʷɑːv ə] | ❌ /'dʒɑːvɑː/ |
-| jpg(jpeg) | ✅ | ❌ /ˈdʒeɪˈpi:ˈdʒiː/ |
+| fedora | ✅ [fɘ ˈdo̞ə̯˞ ə] | ❌ /'fedərə/ |
+| format | ✅ [ˈfo̞ə̯̃˞ ˌmæʔt] | ❌ /fɔ'mæt/ |
+| Git |  | ❌ /dʒɪt/ |
+| GNU | ✅ [ˈnʊu̯] |  |
+| GUI |  |  |
+| Haskell | ✅ [ˈheə̯sk əɫ̺] | ❌ /hæˈskəl/ |
+| height | ✅ [ˈhɑ̟ɪ̯ʔt] | ❌ /heɪt/ |
+| hidden | ✅ [ˈhɪ̈ʔdⁿ n̩˺] | ❌ /'haɪdn/ |
+| image | ✅ [ˈɪ̈̃m ɘʷd͡ʒʷ] | ❌ /ɪ'meɪdʒ/ |
+| implement | ✅ [ˈɪ̈̃mp l̺̊ə̃ mə̃nʔt] | ❌ /ɪm'plem(ə)nt/ |
+| integer | ✅ [ˈɪ̈̃n əʷ d͡ʒʷə˞ː] | ❌ /ˈɪntaɪgə/ |
+| issue | ✅ [ˈɪ̈ʷʃʷ ʊu̯] | ❌ /ˈaɪʃuː/ |
+| Java | ✅ [ˈd͡ʒʷɑːv ə] | ❌ /'dʒɑːvɑː/ |
+| jpeg |  | ❌ /ˈdʒeɪˈpi:ˈdʒiː/ |
 | key | ✅ [ˈkʰiː] | ❌ /kei/ |
-| lambda | ✅ [ˈleəm də] | ❌ /ˈlɒŋmdɑ/ |
-| linear | ✅ [ˈlɪn iː ə˞ː] | ❌ /'laɪə/ |
-| Linux | ✅ [ˈlɪn əks] | ❌ /ˈlɪnʌks; ˈlɪnjuːks/ |
-| locale | ✅ [loʊ ˈkʰæɫ] | ❌ /ˈloʊk(ə)l/ |
-| main | ✅ [ˈmeɪn˺] | ❌ /mɪn/ |
-| margin | ✅ [ˈmɒə˞ʷdʒʷ ən˺] | ❌ /'mʌgɪn/ |
-| matrix | ✅ [ˈmeɪ tɹ˔ʷɘks] | ❌ /ˈmɑ:trɪks/ |
-| maven | ✅ [ˈmeɪv ən˺] | ❌ /'maːvn/ |
-| Microsoft | ✅ [ˈmɑɪkʷ ˌɹʷoʊ ˈsɔəfʔt] | ❌ /'mikrəusɔft/ |
-| module | ✅ [ˈmɑːʷdʒʷ ʊuɫ] | ❌ /'məʊdl/ |
-| nginx | ✅ | |
-| null | ✅ [ˈnʌɫ] | ❌ /naʊ/ |
-| OS X | ✅ | |
-| phantom | ✅ [ˈfeənʔtⁿ m] | ❌ /'pæntəm/ |
-| parameter | ✅ [pə˞ːʷ ˈɹʷæm ə ɾə˞ː] | ❌ /'pærəmɪtə/ |
-| privilege | ✅ [ˈpʰʷɹʷɪv ɘ lɘʷdʒʷ] | ❌ /'prɪvɪlɪdʒ/ |
-| putty | ✅ [ˈpʰʌɾ iː] | ❌ /ˈpuːti/ |
-| query | ✅ [ˈkʰʷwiːʷɹʷ iː] | ❌ /'kwaɪri/ |
-| Qt | ✅ | |
-| Realm | ✅ [ˈɹʷɛɫm] | ❌ /riəlm/ |
-| resume | ✅ [ɹʷɘ ˈzʊum] | ❌  /rɪ'sju:m/ |
-| resolved | ✅ [ɹʷiː ˈzɑːɫvd] | ❌ /rɪ'səʊvd/ |
-| resort | ✅ [ɹʷɘ ˈzoə˞ʔt] | ❌ /rɪˈsɔ:t/ |
-| retina | ✅ [ˈɹʷɛʔtⁿ nə] | ❌ /ri'tina/ |
-| san jose | ✅ [ˌsæ̃n hə ˈze̞ɪ̯] | ❌ /sæn'ju:s/ |
-| safari | ✅ [sə ˈfɒə˞ iː] | ❌ /sæfərɪ/ |
-| scheme | ✅ [ˈskiːm] | ❌ /s'kæmə/ |
-| segue | ✅ [ˈsɛɡʷ weɪ] | ❌ /se'dʒ/ |
-| SQL | ✅ | |
-| sudo | ✅ | |
-| suite | ✅ [ˈsʷwiːʔt] | ❌ /sjuːt/ |
-| typical | ✅ [ˈtʰɪp ɘ kəɫ] | ❌ /'taɪpɪkəl/ |
-| Ubuntu | ✅ [ˌʊu ˈbʊut ˌʊu] | ❌ /juː'bʊntʊ/ |
-| variable | ✅ [ˈveə˞ iː ə bəɫ] | ❌ /və'raiəbl/ |
-| vue | ✅ [ˈvjʊu] | ❌ /v'ju:i/ |
-| width | ✅ [ˈwɪdθ] | ❌ /waɪdθ/ |
-| YouTube | ✅ [ˈjʊut ˌʊub] | ❌ /'juː'tʊbɪ/ |
-| Lucene | ✅ | ❌ /'lu:sən/ |
+| lambda | ✅ [ˈl̺ẽə̯̃m də] | ❌ /ˈlɒŋmdɑ/ |
+| linear | ✅ [ˈl̺ɪ̈̃n iː ə˞ː] | ❌ /'laɪə/ |
+| Linux | ✅ [ˈl̺ɪ̈̃n əks] | ❌ /ˈlɪnʌks; ˈlɪnjuːks/ |
+| locale | ✅ [l̺o̞ʊ̯ ˈkʰæɫ̺] | ❌ /ˈloʊk(ə)l/ |
+| main | ✅ [ˈme̞ɪ̯̃n˺] | ❌ /mɪn/ |
+| margin | ✅ [ˈmɒə̯˞ʷd͡ʒʷ ə̃n˺] | ❌ /'mʌgɪn/ |
+| matrix | ✅ [ˈme̞ɪ̯ t̠͡ɹ̠̊˔ʷɘks] | ❌ /ˈmɑ:trɪks/ |
+| maven | ✅ [ˈme̞ɪ̯v ə̃n˺] | ❌ /'maːvn/ |
+| Microsoft | ✅ [ˈmɑ̟ɪ̯kʷ ˌɹ̠̊ʷo̞ʊ̯ ˈsɔə̯fʔt] | ❌ /'mikrəusɔft/ |
+| module | ✅ [ˈmɑːʷd͡ʒʷ ʊu̯ɫ̺] | ❌ /'məʊdl/ |
+| nginx |  |  |
+| null | ✅ [ˈnʌ̟ɫ̺] | ❌ /naʊ/ |
+| OS X |  |  |
+| phantom | ✅ [ˈfẽə̯̃nʔtⁿ m̩] | ❌ /'pæntəm/ |
+| parameter | ✅ [pə˞ːʷ ˈɹ̠ʷæ̃m ə ɾə˞ː] | ❌ /'pærəmɪtə/ |
+| privilege | ✅ [ˈpʰʷɹ̠̊ʷɪ̈v ɘ l̺ɘʷd͡ʒʷ] | ❌ /'prɪvɪlɪdʒ/ |
+| putty | ✅ [ˈpʰʌ̟ɾ iː] | ❌ /ˈpuːti/ |
+| query | ✅ [ˈkʰʷẘiːʷɹ̠ʷ iː] | ❌ /'kwaɪri/ |
+| Qt |  |  |
+| Realm | ✅ [ˈɹ̠ʷɛɫ̺m] | ❌ /riəlm/ |
+| resume | ✅ [ɹ̠ʷɘ ˈzʊ̃ũ̯m] | ❌ /rɪ'sju:m/ |
+| resolved | ✅ [ɹ̠ʷiː ˈzɑːɫ̺vd] | ❌ /rɪ'səʊvd/ |
+| resort | ✅ [ɹ̠ʷɘ ˈzo̞ə̯˞ʔt] | ❌ /rɪˈsɔ:t/ |
+| retina | ✅ [ˈɹ̠ʷɛʔtⁿ n̊ə] | ❌ /ri'tina/ |
+| san jose | ✅ [ˌsẽə̯̃n ho̞ʊ̯ ˈze̞ɪ̯] | ❌ /sæn'ju:s/ |
+| safari | ✅ [sə ˈfɒə̯˞ iː] | ❌ /sæfərɪ/ |
+| scheme | ✅ [ˈskĩːm] | ❌ /s'kæmə/ |
+| segue | ✅ [ˈsɛɡʷ we̞ɪ̯] | ❌ /se'dʒ/ |
+| SQL |  |  |
+| sudo |  |  |
+| suite | ✅ [ˈsʷẘiːʔt] | ❌ /sjuːt/ |
+| typical | ✅ [ˈtʰɪ̈p ɘ kəɫ̺] | ❌ /'taɪpɪkəl/ |
+| Ubuntu | ✅ [ˌʊu̯ ˈbʊu̯t ˌʊu̯] | ❌ /juː'bʊntʊ/ |
+| variable | ✅ [ˈveə̞̯˞ iː ə bəɫ̺] | ❌ /və'raiəbl/ |
+| vue | ✅ [ˈvjʊu̯] | ❌ /v'ju:i/ |
+| width | ✅ [ˈwɪ̈dθ] | ❌ /waɪdθ/ |
+| YouTube | ✅ [ˈjʊu̯t ˌʊu̯b] | ❌ /'juː'tʊbɪ/ |
+| Lucene |  | ❌ /'lu:sən/ |
 | debt | ✅ [ˈdɛʔt] | ❌ /de'bit/ |
 
 
