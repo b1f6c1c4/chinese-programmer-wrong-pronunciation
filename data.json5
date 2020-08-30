@@ -1,32 +1,32 @@
 [
     {
         word: 'access',
-        pek: "ək'ses",
+        pek: '\u0294a\u0308k\u02b0\u0259 \u02c8s\u031f\u025b\u0320s\u031f',
         ph: 'AE1 K S EH2 S',
     },
     {
         word: 'Adobe',
-        pek: 'əˈdub',
+        pek: '\u0294a\u0308 \u02c8d\u0325\u02b7o\u033d\u031c\u028a\u032f b\u0325i',
         ph: 'AH0 D OW1 B IY0',
     },
     {
         word: 'admin',
-        pek: "ɜ:d'mɪn",
+        pek: '\u0294a\u0308 d\u0325\u0259 \u02c8mj\u0303i\u031e\u0303n\u02fa',
         ph: 'AE1 D M IH0 N',
     },
     {
         word: 'agile',
-        pek: "ə'dʒaɪl",
+        pek: '\u0294e\u033d\u026a\u032f \u02c8d\u0325\u0361\u0290\u0325\u033aa\u033d\u026a\u032f o\u033d\u031c\u028a\u032f',
         ph: 'AE1 JH AH0 L',
     },
     {
         word: 'amazon',
-        pek: "'əmeizən; ə'meizən",
+        pek: "\u02c8\u0294a\u0308 ma\u0308 d\u0325\u0361z\u0325\u031fe\u033d\u0303n\u031a",
         ph: 'AE1 M AH0 Z AA2 N',
     },
     {
         word: 'analogy',
-        pek: "ænə'lɒdʒi",
+        pek: '\u02c8\u0294a\u033d\u0303n\u031a\u0259 l\u033d\u0251\u031f\u028a\u032f',
         ph: 'AH0 N AE1 L AH0 JH IY0',
     },
     {
