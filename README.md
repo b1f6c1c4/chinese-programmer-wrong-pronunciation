@@ -8,10 +8,10 @@
 | adversarial | ✅ [ˌeə̯d və˞ː ˈseə̞̯˞ iː ɫ̺̩] |
 | Adobe | ✅ [ə ˈdo̞ʊ̯b iː] |
 | admin | ✅ [ˈeə̯ʔdⁿ mɘ̃n˺] |
-| agile | ✅ [ˈæʷd͡ʒʷ əɫ̺] |
+| agile | ✅ [ˈeə̯ʷd͡ʒʷ ɫ̺̩] |
 | amazon | ✅ [ˈæ̃m ə ˌzɑ̃ːn˺] |
 | analogy | ✅ [ə̃ ˈnæɫ̺ əʷ d͡ʒʷiː] |
-| Angular | ✅ [ˈæ̃ŋ ɡjə l̺ə˞ː] |
+| Angular | ✅ [ˈæ̃ŋ ɡjəɫ̺ ə˞ː] |
 | AJAX | ✅ [ˈe̞ɪ̯ʷd͡ʒʷ ˌæks] |
 | alias | ✅ [ˈe̞ɪ̯ɫ̺ iː əs] |
 | Apache | ✅ [ə ˈpʰæʷʔt͡ʃʷ iː] |
@@ -28,57 +28,57 @@
 | Daemon | ✅ [ˈdĩːm ə̃n˺] |
 | debt | ✅ [ˈdɛʔt] |
 | deny | ✅ [dɘ̃ ˈnɑ̟ɪ̯] |
-| deque |  |
+| deque | ✅ [ˈdɛk] |
 | digest _n._ | ✅ [ˈdɑ̟ɪ̯ʷd͡ʒʷ ɛsʔt] |
 | digest _v._ | ✅ [dɑ̟ɪ̯ʷ ˈd͡ʒʷɛsʔt] |
-| Dijkstra |  |
-| Django |  |
+| Dijkstra | ✅ [ˈdɑ̟ɪ̯k st̠͡ɹ̠̊˔ʷə] |
+| Django | ✅ [ˈd͡ʒʷẽə̯̃ŋ ɡəɫ̺] |
 | doc | ✅ [ˈdɑːk] |
 | event | ✅ [ɘ ˈvɛ̃nʔt] |
 | epoch | ✅ [ˈɛp ək] |
 | facade | ✅ [fə ˈsɑːd] |
 | fedora | ✅ [fɘ ˈdo̞ə̯˞ ə] |
 | format | ✅ [ˈfo̞ə̯̃˞ ˌmæʔt] |
-| Git |  |
-| GNU | ✅ [ˈnʊu̯] |
-| GraphQL |  |
-| GUI |  |
-| Haskell | ✅ [ˈhæsk əɫ̺] |
+| git | ✅ [ˈɡɪ̈ʔt] |
+| GNU | ✅ [ɡə̃ ˈnʊu̯] |
+| GraphQL | ✅ [ˈɡʷɹ̠ʷeə̯f ˈkʰjʊu̯ ˈɛɫ̺] |
+| GUI | ✅ [ˈɡʊu̯ iː] |
+| Haskell | ✅ [ˈhæsk ɫ̺̩] |
 | height | ✅ [ˈhɑ̟ɪ̯ʔt] |
 | hidden | ✅ [ˈhɪ̈ʔdⁿ n̩˺] |
 | image | ✅ [ˈɪ̈̃m ɘʷd͡ʒʷ] |
 | implement | ✅ [ˈɪ̈̃mp l̺̊ə̃ mə̃nʔt] |
-| integer | ✅ [ˈɪ̈̃n əʷ d͡ʒʷə˞ː] |
+| integer | ✅ [ˈɪ̈̃n əʷd͡ʒʷ ə˞ː] |
 | issue | ✅ [ˈɪ̈ʷʃʷ ʊu̯] |
 | Java | ✅ [ˈd͡ʒʷɑːv ə] |
-| JPEG |  |
+| JPEG | ✅ [ˈd͡ʒʷe̞ɪ̯p ɛɡ] |
 | key | ✅ [ˈkʰiː] |
 | lambda | ✅ [ˈl̺ẽə̯̃m də] |
 | linear | ✅ [ˈl̺ɪ̈̃n iː ə˞ː] |
 | Linux | ✅ [ˈl̺ɪ̈̃n əks] |
 | locale | ✅ [l̺o̞ʊ̯ ˈkʰæɫ̺] |
-| Lucene |  |
+| Lucene | ✅ [l̺ʊu̯ ˈsĩːn˺] |
 | main | ✅ [ˈme̞ɪ̯̃n˺] |
-| margin | ✅ [ˈmɒə̯˞ʷd͡ʒʷ ə̃n˺] |
+| margin | ✅ [ˈmɒə̯˞ʷd͡ʒʷ n̩˺] |
 | matrix | ✅ [ˈme̞ɪ̯ t̠͡ɹ̠̊˔ʷɘks] |
-| maven | ✅ [ˈme̞ɪ̯v ə̃n˺] |
+| maven | ✅ [ˈme̞ɪ̯v n̩˺] |
 | Microsoft | ✅ [ˈmɑ̟ɪ̯kʷ ˌɹ̠̊ʷo̞ʊ̯ ˈsɔə̯fʔt] |
 | module | ✅ [ˈmɑːʷd͡ʒʷ ʊu̯ɫ̺] |
-| nginx |  |
+| nginx | ✅ [ˈɛ̃nʷd͡ʒʷ ɘ̃ ˈnɛks] |
 | null | ✅ [ˈnʌ̟ɫ̺] |
-| OS X |  |
+| OS X | ✅ [ˈo̞ʊ̯ ˈɛ ˈstɛ̃n˺] |
 | phantom | ✅ [ˈfẽə̯̃nʔtⁿ m̩] |
-| parameter | ✅ [pə˞ːʷ ˈɹ̠ʷæ̃m ə ɾə˞ː] |
+| parameter | ✅ [pə˞ːʷ ˈɹ̠ʷæ̃m əɾ ə˞ː] |
 | privilege | ✅ [ˈpʰʷɹ̠̊ʷɪ̈v ɘ l̺ɘʷd͡ʒʷ] |
 | prometheus | ✅ [pʷɹ̠̊ʷə̃ ˈmiːθ ˌiː əs] |
 | putty | ✅ [ˈpʰʌ̟ɾ iː] |
-| Qt |  |
+| Qt | ✅ [ˈkʰjʊu̯ʔt] |
 | query | ✅ [ˈkʰʷẘiːʷɹ̠ʷ iː] |
 | Realm | ✅ [ˈɹ̠ʷɛɫ̺m] |
 | resume | ✅ [ɹ̠ʷɘ ˈzʊ̃ũ̯m] |
 | resolved | ✅ [ɹ̠ʷiː ˈzɑːɫ̺vd] |
 | resort | ✅ [ɹ̠ʷɘ ˈzo̞ə̯˞ʔt] |
-| retina | ✅ [ˈɹ̠ʷɛʔtⁿ n̊ə] |
+| retina | ✅ [ˈɹ̠ʷɛʔtⁿ nə] |
 | route | ✅ [ˈɹ̠ʷʊu̯ʔt] |
 | route | ✅ [ˈɹ̠ʷaʊ̯ʔt] |
 | San Jose | ✅ [ˌsæ̃n ho̞ʊ̯ ˈze̞ɪ̯] |
@@ -86,14 +86,14 @@
 | scheme | ✅ [ˈskĩːm] |
 | scala | ✅ [ˈskɑːɫ̺ ə] |
 | segue | ✅ [ˈsɛɡʷ we̞ɪ̯] |
-| SQL |  |
-| sudo |  |
+| SQL | ✅ [ˈɛ ˈskjʊu̯ ˈɛɫ̺] |
+| sudo | ✅ [ˈsʊu̯ɾ ʊu̯] |
 | suite | ✅ [ˈsʷẘiːʔt] |
-| thymeleaf |  |
+| thymeleaf | ✅ [ˈtʰɑ̟̃ɪ̯̃m ˌl̺ɪ̈f] |
 | typical | ✅ [ˈtʰɪ̈p ɘ kəɫ̺] |
 | Ubuntu | ✅ [ˌʊu̯ ˈbʊu̯t ˌʊu̯] |
 | variable | ✅ [ˈveə̞̯˞ iː ə bəɫ̺] |
-| verbose |  |
+| verbose | ✅ [ˌvɜ˞ː ˈbo̞ʊ̯s] |
 | vue | ✅ [ˈvjʊu̯] |
 | width | ✅ [ˈwɪ̈dθ] |
 | YouTube | ✅ [ˈjʊu̯t ˌʊu̯b] |

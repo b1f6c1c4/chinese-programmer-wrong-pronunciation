@@ -99,6 +99,7 @@
     },
     {
         word: 'deque',
+        ph: 'D EH1 K',
     },
     {
         word: 'digest',
@@ -112,9 +113,11 @@
     },
     {
         word: 'Dijkstra',
+        ph: 'D AY1 K S T R AH0',
     },
     {
         word: 'Django',
+        ph: 'JH AE1 NG G AH0 L',
     },
     {
         word: 'doc',
@@ -141,17 +144,20 @@
         ph: 'F AO1 R M AE2 T',
     },
     {
-        word: 'Git',
+        word: 'git',
+        ph: 'G IH1 T',
     },
     {
         word: 'GNU',
-        ph: 'N UW1',
+        ph: 'G AH0 N UW1',
     },
     {
         word: 'GraphQL',
+        ph: 'G R AE1 F K Y UW1 EH1 L',
     },
     {
         word: 'GUI',
+        ph: 'G UW1 IY0',
     },
     {
         word: 'Haskell',
@@ -188,6 +194,7 @@
     },
     {
         word: 'JPEG',
+        ph: 'JH EY1 P EH G',
     },
     {
         word: 'key',
@@ -211,6 +218,7 @@
     },
     {
         word: 'Lucene',
+        ph: 'L UW0 S IY1 N',
     },
     {
         word: 'main',
@@ -238,6 +246,7 @@
     },
     {
         word: 'nginx',
+        ph: 'EH1 N JH IH0 N EH1 K S',
     },
     {
         word: 'null',
@@ -245,6 +254,7 @@
     },
     {
         word: 'OS X',
+        ph: 'OW1 EH1 S T EH1 N'
     },
     {
         word: 'phantom',
@@ -268,6 +278,7 @@
     },
     {
         word: 'Qt',
+        ph: 'K Y UW1 T',
     },
     {
         word: 'query',
@@ -324,9 +335,11 @@
     },
     {
         word: 'SQL',
+        ph: 'EH1 S K Y UW1 EH1 L',
     },
     {
         word: 'sudo',
+        ph: 'S UW1 D UW0',
     },
     {
         word: 'suite',
@@ -334,6 +347,7 @@
     },
     {
         word: 'thymeleaf',
+        ph: 'T AY1 M L IH2 F',
     },
     {
         word: 'typical',
@@ -349,6 +363,7 @@
     },
     {
         word: 'verbose',
+        ph: 'V ER2 B OW1 S',
     },
     {
         word: 'vue',
