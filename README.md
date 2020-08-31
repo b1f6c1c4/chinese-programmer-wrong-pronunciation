@@ -25,7 +25,7 @@
 | bind | ✅ [ˈbɑ̟̃ɪ̯̃nd] |
 | cache | ✅ [ˈkʰeə̯ʷʃʷ] |
 | clang | ✅ [ˈkʰl̺̊ẽə̯̃ŋ˺] |
-| Daemon | ✅ [ˈdĩːm ə̃n˺] |
+| daemon | ✅ [ˈdĩːm ə̃n˺] |
 | debt | ✅ [ˈdɛʔt] |
 | deny | ✅ [dɘ̃ ˈnɑ̟ɪ̯] |
 | deque | ✅ [ˈdɛk] |
@@ -51,7 +51,7 @@
 | integer | ✅ [ˈɪ̈̃n əʷd͡ʒʷ ə˞ː] |
 | issue | ✅ [ˈɪ̈ʷʃʷ ʊu̯] |
 | Java | ✅ [ˈd͡ʒʷɑːv ə] |
-| JPEG | ✅ [ˈd͡ʒʷe̞ɪ̯p ɛɡ] |
+| JPEG | ✅ [ˈd͡ʒʷe̞ɪ̯ pɛɡ] |
 | key | ✅ [ˈkʰiː] |
 | lambda | ✅ [ˈl̺ẽə̯̃m də] |
 | linear | ✅ [ˈl̺ɪ̈̃n iː ə˞ː] |
@@ -64,9 +64,9 @@
 | maven | ✅ [ˈme̞ɪ̯v n̩˺] |
 | Microsoft | ✅ [ˈmɑ̟ɪ̯kʷ ˌɹ̠̊ʷo̞ʊ̯ ˈsɔə̯fʔt] |
 | module | ✅ [ˈmɑːʷd͡ʒʷ ʊu̯ɫ̺] |
-| nginx | ✅ [ˈɛ̃nʷd͡ʒʷ ɘ̃ ˈnɛks] |
+| nginx | ✅ [ˈɛ̃nʷd͡ʒʷ ɘ̃n ˈɛks] |
 | null | ✅ [ˈnʌ̟ɫ̺] |
-| OS X | ✅ [ˈo̞ʊ̯ ˈɛ ˈstɛ̃n˺] |
+| OS X | ✅ [ˈo̞ʊ̯ ˈɛs ˈtɛ̃n˺] |
 | phantom | ✅ [ˈfẽə̯̃nʔtⁿ m̩] |
 | parameter | ✅ [pə˞ːʷ ˈɹ̠ʷæ̃m əɾ ə˞ː] |
 | privilege | ✅ [ˈpʰʷɹ̠̊ʷɪ̈v ɘ l̺ɘʷd͡ʒʷ] |
@@ -86,7 +86,7 @@
 | scheme | ✅ [ˈskĩːm] |
 | scala | ✅ [ˈskɑːɫ̺ ə] |
 | segue | ✅ [ˈsɛɡʷ we̞ɪ̯] |
-| SQL | ✅ [ˈɛ ˈskjʊu̯ ˈɛɫ̺] |
+| SQL | ✅ [ˈɛs ˈkjʊu̯ ˈɛɫ̺] |
 | sudo | ✅ [ˈsʊu̯ɾ ʊu̯] |
 | suite | ✅ [ˈsʷẘiːʔt] |
 | thymeleaf | ✅ [ˈtʰɑ̟̃ɪ̯̃m ˌl̺ɪ̈f] |
@@ -96,7 +96,7 @@
 | verbose | ✅ [ˌvɜ˞ː ˈbo̞ʊ̯s] |
 | vue | ✅ [ˈvjʊu̯] |
 | width | ✅ [ˈwɪ̈dθ] |
-| YouTube | ✅ [ˈjʊu̯t ˌʊu̯b] |
+| YouTube | ✅ [ˈjʊu̯ ˌtʰʊu̯b] |
 
 
 ## 看不懂，怎么办？

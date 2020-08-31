@@ -86,7 +86,7 @@
         ph: 'K L AE1 NG',
     },
     {
-        word: 'Daemon',
+        word: 'daemon',
         ph: 'D IY1 M AH0 N',
     },
     {
@@ -195,6 +195,7 @@
     {
         word: 'JPEG',
         ph: 'JH EY1 P EH G',
+        syllableHint: '0',
     },
     {
         word: 'key',
@@ -247,6 +248,7 @@
     {
         word: 'nginx',
         ph: 'EH1 N JH IH0 N EH1 K S',
+        syllableHint: '2 1',
     },
     {
         word: 'null',
@@ -254,7 +256,8 @@
     },
     {
         word: 'OS X',
-        ph: 'OW1 EH1 S T EH1 N'
+        ph: 'OW1 EH1 S T EH1 N',
+        syllableHint: '0 1',
     },
     {
         word: 'phantom',
@@ -336,6 +339,7 @@
     {
         word: 'SQL',
         ph: 'EH1 S K Y UW1 EH1 L',
+        syllableHint: '1 1',
     },
     {
         word: 'sudo',
@@ -376,5 +380,6 @@
     {
         word: 'YouTube',
         ph: 'Y UW1 T UW2 B',
+        syllableHint: '0',
     },
 ]

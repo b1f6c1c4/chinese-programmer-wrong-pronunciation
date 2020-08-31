@@ -8,11 +8,16 @@ const path = require('path');
 const data = JSON5.parse(fs.readFileSync(path.join(__dirname, 'data.json5'), 'utf-8'));
 let tbl = '';
 for (let e of data) {
-  let resW = e.word;
-  if (e.pos) resW += ` _${e.pos}_`;
-  let resJ = e.ph && jfk.process(e.ph, e.word, e.aeHint);
-  resJ = resJ ? `✅ ${jfk.unicode(resJ)}` : '';
-  tbl += `| ${resW} | ${resJ} |\n`
+  try {
+    let resW = e.word;
+    if (e.pos) resW += ` _${e.pos}_`;
+    const { aeHint, syllableHint } = e;
+    let resJ = e.ph && jfk.process(e.ph, e.word, { aeHint, syllableHint });
+    resJ = resJ ? `✅ ${jfk.unicode(resJ)}` : '';
+    tbl += `| ${resW} | ${resJ} |\n`
+  } catch (err) {
+    console.error(e, err);
+  }
 }
 
 const readme = `# programming-pronunciations-en\\_US
