@@ -75,7 +75,7 @@
 | putty | ✅ [ˈpʰʌ̟ɾ iː] |
 | Qt | ✅ [ˈkʰjʊu̯ʔt] |
 | query | ✅ [ˈkʰʷẘiːʷɹ̠ʷ iː] |
-| Realm | ✅ [ˈɹ̠ʷɛɫ̺m] |
+| realm | ✅ [ˈɹ̠ʷɛɫ̺m] |
 | reconcile | ✅ [ˈɹ̠ʷɛk n̩ ˌsɑ̟ɪ̯ɫ̺] |
 | Redux | ✅ [ˈɹ̠ʷiːd ˌʌ̟ks] |
 | resolved | ✅ [ɹ̠ʷiː ˈzɑːɫ̺vd] |
