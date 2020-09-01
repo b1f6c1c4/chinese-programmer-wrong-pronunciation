@@ -4,20 +4,28 @@
         ph: 'AE1 K S EH2 S',
     },
     {
-        word: 'adversarial',
-        ph: 'AE2 D V ER0 S EH1 R IY0 AH0 L',
+        word: 'admin',
+        ph: 'AE1 D M IH0 N',
     },
     {
         word: 'Adobe',
         ph: 'AH0 D OW1 B IY0',
     },
     {
-        word: 'admin',
-        ph: 'AE1 D M IH0 N',
+        word: 'adversarial',
+        ph: 'AE2 D V ER0 S EH1 R IY0 AH0 L',
     },
     {
         word: 'agile',
         ph: 'AE1 JH AH0 L',
+    },
+    {
+        word: 'AJAX',
+        ph: 'EY1 JH AE2 K S',
+    },
+    {
+        word: 'alias',
+        ph: 'EY1 L IY0 AH0 S',
     },
     {
         word: 'amazon',
@@ -31,14 +39,6 @@
         word: 'Angular',
         ph: 'AE1 NG G Y AH0 L ER0',
         aeHint: '0',
-    },
-    {
-        word: 'AJAX',
-        ph: 'EY1 JH AE2 K S',
-    },
-    {
-        word: 'alias',
-        ph: 'EY1 L IY0 AH0 S',
     },
     {
         word: 'Apache',
@@ -124,12 +124,12 @@
         ph: 'D AA1 K',
     },
     {
-        word: 'event',
-        ph: 'IH0 V EH1 N T',
-    },
-    {
         word: 'epoch',
         ph: 'EH1 P AH0 K',
+    },
+    {
+        word: 'event',
+        ph: 'IH0 V EH1 N T',
     },
     {
         word: 'facade',
@@ -260,12 +260,12 @@
         syllableHint: '0 1',
     },
     {
-        word: 'phantom',
-        ph: 'F AE1 N T AH0 M',
-    },
-    {
         word: 'parameter',
         ph: 'P ER0 AE1 M AH0 T ER0',
+    },
+    {
+        word: 'phantom',
+        ph: 'F AE1 N T AH0 M',
     },
     {
         word: 'privilege',
@@ -292,16 +292,16 @@
         ph: 'R EH1 L M',
     },
     {
-        word: 'resume',
-        ph: 'R IH0 Z UW1 M',
-    },
-    {
         word: 'resolved',
         ph: 'R IY0 Z AA1 L V D',
     },
     {
         word: 'resort',
         ph: 'R IH0 Z AO1 R T',
+    },
+    {
+        word: 'resume',
+        ph: 'R IH0 Z UW1 M',
     },
     {
         word: 'retina',
@@ -316,21 +316,21 @@
         ph: 'R AW1 T',
     },
     {
+        word: 'safari',
+        ph: 'S AH0 F AA1 R IY0',
+    },
+    {
         word: 'San Jose',
         ph: 'S AE2 N HH OW0 Z EY1',
         aeHint: '0',
     },
     {
-        word: 'safari',
-        ph: 'S AH0 F AA1 R IY0',
+        word: 'scala',
+        ph: 'S K AA1 L AH0',
     },
     {
         word: 'scheme',
         ph: 'S K IY1 M',
-    },
-    {
-        word: 'scala',
-        ph: 'S K AA1 L AH0',
     },
     {
         word: 'segue',

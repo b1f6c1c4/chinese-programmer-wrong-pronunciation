@@ -5,15 +5,15 @@
 | 单词 | **正宗纽约口音** |
 | ---- | ------- |
 | access | ✅ [ˈæk ˌsɛs] |
-| adversarial | ✅ [ˌeə̯d və˞ː ˈseə̞̯˞ iː ɫ̺̩] |
-| Adobe | ✅ [ə ˈdo̞ʊ̯b iː] |
 | admin | ✅ [ˈeə̯ʔdⁿ mɘ̃n˺] |
+| Adobe | ✅ [ə ˈdo̞ʊ̯b iː] |
+| adversarial | ✅ [ˌeə̯d və˞ː ˈseə̞̯˞ iː ɫ̺̩] |
 | agile | ✅ [ˈeə̯ʷd͡ʒʷ ɫ̺̩] |
+| AJAX | ✅ [ˈe̞ɪ̯ʷd͡ʒʷ ˌæks] |
+| alias | ✅ [ˈe̞ɪ̯ɫ̺ iː əs] |
 | amazon | ✅ [ˈæ̃m ə ˌzɑ̃ːn˺] |
 | analogy | ✅ [ə̃ ˈnæɫ̺ əʷ d͡ʒʷiː] |
 | Angular | ✅ [ˈæ̃ŋ ɡjəɫ̺ ə˞ː] |
-| AJAX | ✅ [ˈe̞ɪ̯ʷd͡ʒʷ ˌæks] |
-| alias | ✅ [ˈe̞ɪ̯ɫ̺ iː əs] |
 | Apache | ✅ [ə ˈpʰæʷʔt͡ʃʷ iː] |
 | app | ✅ [ˈæp] |
 | archive | ✅ [ˈɒə̯˞ ˌkʰɑ̟ɪ̯v] |
@@ -34,8 +34,8 @@
 | Dijkstra | ✅ [ˈdɑ̟ɪ̯k st̠͡ɹ̠̊˔ʷə] |
 | Django | ✅ [ˈd͡ʒʷẽə̯̃ŋ ɡəɫ̺] |
 | doc | ✅ [ˈdɑːk] |
-| event | ✅ [ɘ ˈvɛ̃nʔt] |
 | epoch | ✅ [ˈɛp ək] |
+| event | ✅ [ɘ ˈvɛ̃nʔt] |
 | facade | ✅ [fə ˈsɑːd] |
 | fedora | ✅ [fɘ ˈdo̞ə̯˞ ə] |
 | format | ✅ [ˈfo̞ə̯̃˞ ˌmæʔt] |
@@ -67,24 +67,24 @@
 | nginx | ✅ [ˈɛ̃nʷd͡ʒʷ ɘ̃n ˈɛks] |
 | null | ✅ [ˈnʌ̟ɫ̺] |
 | OS X | ✅ [ˈo̞ʊ̯ ˈɛs ˈtɛ̃n˺] |
-| phantom | ✅ [ˈfẽə̯̃nʔtⁿ m̩] |
 | parameter | ✅ [pə˞ːʷ ˈɹ̠ʷæ̃m əɾ ə˞ː] |
+| phantom | ✅ [ˈfẽə̯̃nʔtⁿ m̩] |
 | privilege | ✅ [ˈpʰʷɹ̠̊ʷɪ̈v ɘ l̺ɘʷd͡ʒʷ] |
 | prometheus | ✅ [pʷɹ̠̊ʷə̃ ˈmiːθ ˌiː əs] |
 | putty | ✅ [ˈpʰʌ̟ɾ iː] |
 | Qt | ✅ [ˈkʰjʊu̯ʔt] |
 | query | ✅ [ˈkʰʷẘiːʷɹ̠ʷ iː] |
 | Realm | ✅ [ˈɹ̠ʷɛɫ̺m] |
-| resume | ✅ [ɹ̠ʷɘ ˈzʊ̃ũ̯m] |
 | resolved | ✅ [ɹ̠ʷiː ˈzɑːɫ̺vd] |
 | resort | ✅ [ɹ̠ʷɘ ˈzo̞ə̯˞ʔt] |
+| resume | ✅ [ɹ̠ʷɘ ˈzʊ̃ũ̯m] |
 | retina | ✅ [ˈɹ̠ʷɛʔtⁿ nə] |
 | route | ✅ [ˈɹ̠ʷʊu̯ʔt] |
 | route | ✅ [ˈɹ̠ʷaʊ̯ʔt] |
-| San Jose | ✅ [ˌsæ̃n ho̞ʊ̯ ˈze̞ɪ̯] |
 | safari | ✅ [sə ˈfɒə̯˞ iː] |
-| scheme | ✅ [ˈskĩːm] |
+| San Jose | ✅ [ˌsæ̃n ho̞ʊ̯ ˈze̞ɪ̯] |
 | scala | ✅ [ˈskɑːɫ̺ ə] |
+| scheme | ✅ [ˈskĩːm] |
 | segue | ✅ [ˈsɛɡʷ we̞ɪ̯] |
 | SQL | ✅ [ˈɛs ˈkjʊu̯ ˈɛɫ̺] |
 | sudo | ✅ [ˈsʊu̯ɾ ʊu̯] |
