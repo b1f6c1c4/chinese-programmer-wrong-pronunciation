@@ -12,7 +12,7 @@ for (let e of data) {
     let resW = e.word;
     if (e.pos) resW += ` _${e.pos}_`;
     const { aeHint, syllableHint } = e;
-    let resJ = e.ph && jfk.process(e.ph, e.word, { aeHint, syllableHint });
+    let resJ = e.ph && jfk.process(e.ph, e.word, false, { aeHint, syllableHint });
     resJ = resJ ? `✅ ${jfk.unicode(resJ)}` : '';
     tbl += `| ${resW} | ${resJ} |\n`
   } catch (err) {

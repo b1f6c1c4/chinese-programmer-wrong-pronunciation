@@ -7,7 +7,7 @@
 | access | ✅ [ˈæk ˌsɛs] |
 | admin | ✅ [ˈeə̯ʔdⁿ mɘ̃n˺] |
 | Adobe | ✅ [ə ˈdo̞ʊ̯b iː] |
-| adversarial | ✅ [ˌeə̯d və˞ː ˈseə̞̯˞ iː ɫ̺̩] |
+| adversarial | ✅ [ˌeə̯d və˞ː ˈse̞ə̯˞ iː ɫ̺̩] |
 | agile | ✅ [ˈeə̯ʷd͡ʒʷ ɫ̺̩] |
 | AJAX | ✅ [ˈe̞ɪ̯ʷd͡ʒʷ ˌæks] |
 | alias | ✅ [ˈe̞ɪ̯ɫ̺ iː əs] |
@@ -58,7 +58,7 @@
 | Linux | ✅ [ˈl̺ɪ̈̃n əks] |
 | locale | ✅ [l̺o̞ʊ̯ ˈkʰæɫ̺] |
 | Lucene | ✅ [l̺ʊu̯ ˈsĩːn˺] |
-| main | ✅ [ˈme̞ɪ̯̃n˺] |
+| main | ✅ [ˈmẽ̞ɪ̯̃n˺] |
 | margin | ✅ [ˈmɒə̯˞ʷd͡ʒʷ n̩˺] |
 | matrix | ✅ [ˈme̞ɪ̯ t̠͡ɹ̠̊˔ʷɘks] |
 | maven | ✅ [ˈme̞ɪ̯v n̩˺] |
@@ -67,7 +67,7 @@
 | nginx | ✅ [ˈɛ̃nʷd͡ʒʷ ɘ̃n ˈɛks] |
 | null | ✅ [ˈnʌ̟ɫ̺] |
 | OS X | ✅ [ˈo̞ʊ̯ ˈɛs ˈtɛ̃n˺] |
-| paradox | ✅ [ˈpʰeə̞̯˞ ə ˌdɑːks] |
+| paradox | ✅ [ˈpʰe̞ə̯˞ ə ˌdɑːks] |
 | parameter | ✅ [pə˞ːʷ ˈɹ̠ʷæ̃m əɾ ə˞ː] |
 | phantom | ✅ [ˈfẽə̯̃nʔtⁿ m̩] |
 | privilege | ✅ [ˈpʰʷɹ̠̊ʷɪ̈v ɘ l̺ɘʷd͡ʒʷ] |
@@ -95,7 +95,7 @@
 | thymeleaf | ✅ [ˈtʰɑ̟̃ɪ̯̃m ˌl̺ɪ̈f] |
 | typical | ✅ [ˈtʰɪ̈p ɘ kəɫ̺] |
 | Ubuntu | ✅ [ˌʊu̯ ˈbʊu̯t ˌʊu̯] |
-| variable | ✅ [ˈveə̞̯˞ iː ə bəɫ̺] |
+| variable | ✅ [ˈve̞ə̯˞ iː ə bəɫ̺] |
 | verbose | ✅ [ˌvɜ˞ː ˈbo̞ʊ̯s] |
 | vue | ✅ [ˈvjʊu̯] |
 | width | ✅ [ˈwɪ̈dθ] |
