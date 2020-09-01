@@ -68,7 +68,7 @@
 | null | /ˈnʌl/ | [ˈnʌ̟ɫ̺] |
 | OS X | /ˈoʊ ˈes ˈten/ | [ˈo̞ʊ̯ ˈɛs ˈtʰɛ̃n˺] |
 | paradox | /ˈpæɹ ə ˌdɑːks/ | [ˈpʰæʷɹ̠ʷ ə ˌdɑːks] |
-| parameter | /pə ˈɹæm ət ə˞/ | [pəʷ ˈɹ̠ʷæ̃m ə ʔt͡ɹ̠˔̩] |
+| parameter | /pə ˈɹæm ət ə˞/ | [pəʷ ˈɹ̠ʷæ̃m əʔɾ ɹ̠˔̩] |
 | phantom | /ˈfænt əm/ | [ˈfẽə̯̃nʔtⁿ m̩] |
 | privilege | /ˈpɹɪv ə lɪʤ/ | [ˈpʰʷɹ̠̊ʷɪ̈v ə l̺ɘʷd͡ʒʷ] |
 | Prometheus | /pɹə ˈmiːθ ˌiː əs/ | [pʷɹ̠̊ʷə̃ ˈmiːθ ˌiː əs] |
