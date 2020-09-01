@@ -67,6 +67,7 @@
 | nginx | ✅ [ˈɛ̃nʷd͡ʒʷ ɘ̃n ˈɛks] |
 | null | ✅ [ˈnʌ̟ɫ̺] |
 | OS X | ✅ [ˈo̞ʊ̯ ˈɛs ˈtɛ̃n˺] |
+| paradox | ✅ [ˈpʰeə̞̯˞ ə ˌdɑːks] |
 | parameter | ✅ [pə˞ːʷ ˈɹ̠ʷæ̃m əɾ ə˞ː] |
 | phantom | ✅ [ˈfẽə̯̃nʔtⁿ m̩] |
 | privilege | ✅ [ˈpʰʷɹ̠̊ʷɪ̈v ɘ l̺ɘʷd͡ʒʷ] |
@@ -75,6 +76,8 @@
 | Qt | ✅ [ˈkʰjʊu̯ʔt] |
 | query | ✅ [ˈkʰʷẘiːʷɹ̠ʷ iː] |
 | Realm | ✅ [ˈɹ̠ʷɛɫ̺m] |
+| reconcile | ✅ [ˈɹ̠ʷɛk n̩ ˌsɑ̟ɪ̯ɫ̺] |
+| Redux | ✅ [ˈɹ̠ʷiːd ˌʌ̟ks] |
 | resolved | ✅ [ɹ̠ʷiː ˈzɑːɫ̺vd] |
 | resort | ✅ [ɹ̠ʷɘ ˈzo̞ə̯˞ʔt] |
 | resume | ✅ [ɹ̠ʷɘ ˈzʊ̃ũ̯m] |

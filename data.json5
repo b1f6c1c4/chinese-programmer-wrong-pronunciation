@@ -260,6 +260,10 @@
         syllableHint: '0 1',
     },
     {
+        word: 'paradox',
+        ph: 'P EH1 R AH0 D AA2 K S',
+    },
+    {
         word: 'parameter',
         ph: 'P ER0 AE1 M AH0 T ER0',
     },
@@ -290,6 +294,14 @@
     {
         word: 'Realm',
         ph: 'R EH1 L M',
+    },
+    {
+        word: 'reconcile',
+        ph: 'R EH1 K AH0 N S AY2 L',
+    },
+    {
+        word: 'Redux',
+        ph: 'R IY1 D AH2 K S',
     },
     {
         word: 'resolved',
