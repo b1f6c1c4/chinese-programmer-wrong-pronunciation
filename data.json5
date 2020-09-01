@@ -193,7 +193,7 @@
         ph: 'JH AA1 V AH0',
     },
     {
-        word: 'JPEG',
+        word: 'jpg',
         ph: 'JH EY1 P EH G',
         syllableHint: '0',
     },

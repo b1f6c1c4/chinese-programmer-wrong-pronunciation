@@ -51,7 +51,7 @@
 | integer | ✅ [ˈɪ̈̃n əʷd͡ʒʷ ə˞ː] |
 | issue | ✅ [ˈɪ̈ʷʃʷ ʊu̯] |
 | Java | ✅ [ˈd͡ʒʷɑːv ə] |
-| JPEG | ✅ [ˈd͡ʒʷe̞ɪ̯ pɛɡ] |
+| jpg | ✅ [ˈd͡ʒʷe̞ɪ̯ pɛɡ] |
 | key | ✅ [ˈkʰiː] |
 | lambda | ✅ [ˈl̺ẽə̯̃m də] |
 | linear | ✅ [ˈl̺ɪ̈̃n iː ə˞ː] |

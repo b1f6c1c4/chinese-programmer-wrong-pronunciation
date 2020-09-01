@@ -9,20 +9,21 @@ const readline = require('readline');
 const data = JSON5.parse(fs.readFileSync(path.join(__dirname, 'data.json5'), 'utf-8'));
 
 const exists = {};
-data.forEach(({ word }) => { exists[word] = true; });
+data.forEach(({ word }) => { exists[word.toUpperCase()] = true; });
 
 const rl = readline.createInterface({
   input: process.stdin,
 });
 
 rl.on('line', (word) => {
-  if (exists[word]) return;
+  if (exists[word.toUpperCase()]) return;
   const phss = jfk.queryDatabase(word);
   const o = { word };
   if (!phss) {
     console.error(`Warning: No pronunciation found for ${word}`);
   } else if (phss.length === 1) {
     o.ph = phss[0];
+    console.error(`Info: New word: ${word}: ${o.ph}`);
   } else {
     phss.forEach((ph) => {
       console.error(`Warning: Multiple pronunciations for ${word}: ${ph}`);
@@ -33,7 +34,6 @@ rl.on('line', (word) => {
     console.error(`Warning: Check /ae/ for ${word}: ${o.ph}`);
   }
   data.push(o);
-  exists[word] = true;
 });
 
 rl.on('close', () => {
