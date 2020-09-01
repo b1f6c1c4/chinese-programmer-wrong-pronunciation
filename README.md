@@ -2,104 +2,104 @@
 
 程序员容易发音错误的单词，国际音标严式记音，正宗美国纽约口音
 
-| 单词 | **正宗纽约口音** |
-| ---- | ------- |
-| access | ✅ [ˈæk ˌsɛs] |
-| admin | ✅ [ˈeə̯ʔdⁿ mɘ̃n˺] |
-| Adobe | ✅ [ə ˈdo̞ʊ̯b iː] |
-| adversarial | ✅ [ˌeə̯d və˞ː ˈse̞ə̯˞ iː ɫ̺̩] |
-| agile | ✅ [ˈeə̯ʷd͡ʒʷ ɫ̺̩] |
-| AJAX | ✅ [ˈe̞ɪ̯ʷd͡ʒʷ ˌæks] |
-| alias | ✅ [ˈe̞ɪ̯ɫ̺ iː əs] |
-| amazon | ✅ [ˈæ̃m ə ˌzɑ̃ːn˺] |
-| analogy | ✅ [ə̃ ˈnæɫ̺ əʷ d͡ʒʷiː] |
-| Angular | ✅ [ˈæ̃ŋ ɡjəɫ̺ ə˞ː] |
-| Apache | ✅ [ə ˈpʰæʷʔt͡ʃʷ iː] |
-| app | ✅ [ˈæp] |
-| archive | ✅ [ˈɒə̯˞ ˌkʰɑ̟ɪ̯v] |
-| array | ✅ [ə˞ːʷ ˈɹ̠ʷe̞ɪ̯] |
-| ASCII | ✅ [ˈæsk iː] |
-| aspect | ✅ [ˈeə̯sp ˌɛk˺ʔt] |
-| avatar | ✅ [ˈæv ə ˌtʰɒə̯˞] |
-| Azure | ✅ [ˈæʷʒʷ ə˞ː] |
-| bind | ✅ [ˈbɑ̟̃ɪ̯̃nd] |
-| cache | ✅ [ˈkʰeə̯ʷʃʷ] |
-| clang | ✅ [ˈkʰl̺̊ẽə̯̃ŋ˺] |
-| daemon | ✅ [ˈdĩːm ə̃n˺] |
-| debt | ✅ [ˈdɛʔt] |
-| deny | ✅ [dɘ̃ ˈnɑ̟ɪ̯] |
-| deque | ✅ [ˈdɛk] |
-| digest _n._ | ✅ [ˈdɑ̟ɪ̯ʷd͡ʒʷ ɛsʔt] |
-| digest _v._ | ✅ [dɑ̟ɪ̯ʷ ˈd͡ʒʷɛsʔt] |
-| Dijkstra | ✅ [ˈdɑ̟ɪ̯k st̠͡ɹ̠̊˔ʷə] |
-| Django | ✅ [ˈd͡ʒʷẽə̯̃ŋ ɡəɫ̺] |
-| doc | ✅ [ˈdɑːk] |
-| epoch | ✅ [ˈɛp ək] |
-| event | ✅ [ɘ ˈvɛ̃nʔt] |
-| facade | ✅ [fə ˈsɑːd] |
-| fedora | ✅ [fɘ ˈdo̞ə̯˞ ə] |
-| format | ✅ [ˈfo̞ə̯̃˞ ˌmæʔt] |
-| git | ✅ [ˈɡɪ̈ʔt] |
-| GNU | ✅ [ɡə̃ ˈnʊu̯] |
-| GraphQL | ✅ [ˈɡʷɹ̠ʷeə̯f ˈkʰjʊu̯ ˈɛɫ̺] |
-| GUI | ✅ [ˈɡʊu̯ iː] |
-| Haskell | ✅ [ˈhæsk ɫ̺̩] |
-| height | ✅ [ˈhɑ̟ɪ̯ʔt] |
-| hidden | ✅ [ˈhɪ̈ʔdⁿ n̩˺] |
-| image | ✅ [ˈɪ̈̃m ɘʷd͡ʒʷ] |
-| implement | ✅ [ˈɪ̈̃mp l̺̊ə̃ mə̃nʔt] |
-| integer | ✅ [ˈɪ̈̃n əʷd͡ʒʷ ə˞ː] |
-| issue | ✅ [ˈɪ̈ʷʃʷ ʊu̯] |
-| Java | ✅ [ˈd͡ʒʷɑːv ə] |
-| jpg | ✅ [ˈd͡ʒʷe̞ɪ̯ pɛɡ] |
-| key | ✅ [ˈkʰiː] |
-| lambda | ✅ [ˈl̺ẽə̯̃m də] |
-| linear | ✅ [ˈl̺ɪ̈̃n iː ə˞ː] |
-| Linux | ✅ [ˈl̺ɪ̈̃n əks] |
-| locale | ✅ [l̺o̞ʊ̯ ˈkʰæɫ̺] |
-| Lucene | ✅ [l̺ʊu̯ ˈsĩːn˺] |
-| main | ✅ [ˈmẽ̞ɪ̯̃n˺] |
-| margin | ✅ [ˈmɒə̯˞ʷd͡ʒʷ n̩˺] |
-| matrix | ✅ [ˈme̞ɪ̯ t̠͡ɹ̠̊˔ʷɘks] |
-| maven | ✅ [ˈme̞ɪ̯v n̩˺] |
-| Microsoft | ✅ [ˈmɑ̟ɪ̯kʷ ˌɹ̠̊ʷo̞ʊ̯ ˈsɔə̯fʔt] |
-| module | ✅ [ˈmɑːʷd͡ʒʷ ʊu̯ɫ̺] |
-| nginx | ✅ [ˈɛ̃nʷd͡ʒʷ ɘ̃n ˈɛks] |
-| null | ✅ [ˈnʌ̟ɫ̺] |
-| OS X | ✅ [ˈo̞ʊ̯ ˈɛs ˈtɛ̃n˺] |
-| paradox | ✅ [ˈpʰe̞ə̯˞ ə ˌdɑːks] |
-| parameter | ✅ [pə˞ːʷ ˈɹ̠ʷæ̃m əɾ ə˞ː] |
-| phantom | ✅ [ˈfẽə̯̃nʔtⁿ m̩] |
-| privilege | ✅ [ˈpʰʷɹ̠̊ʷɪ̈v ɘ l̺ɘʷd͡ʒʷ] |
-| prometheus | ✅ [pʷɹ̠̊ʷə̃ ˈmiːθ ˌiː əs] |
-| putty | ✅ [ˈpʰʌ̟ɾ iː] |
-| Qt | ✅ [ˈkʰjʊu̯ʔt] |
-| query | ✅ [ˈkʰʷẘiːʷɹ̠ʷ iː] |
-| realm | ✅ [ˈɹ̠ʷɛɫ̺m] |
-| reconcile | ✅ [ˈɹ̠ʷɛk n̩ ˌsɑ̟ɪ̯ɫ̺] |
-| Redux | ✅ [ˈɹ̠ʷiːd ˌʌ̟ks] |
-| resolved | ✅ [ɹ̠ʷiː ˈzɑːɫ̺vd] |
-| resort | ✅ [ɹ̠ʷɘ ˈzo̞ə̯˞ʔt] |
-| resume | ✅ [ɹ̠ʷɘ ˈzʊ̃ũ̯m] |
-| retina | ✅ [ˈɹ̠ʷɛʔtⁿ nə] |
-| route | ✅ [ˈɹ̠ʷʊu̯ʔt] |
-| route | ✅ [ˈɹ̠ʷaʊ̯ʔt] |
-| safari | ✅ [sə ˈfɒə̯˞ iː] |
-| San Jose | ✅ [ˌsæ̃n ho̞ʊ̯ ˈze̞ɪ̯] |
-| scala | ✅ [ˈskɑːɫ̺ ə] |
-| scheme | ✅ [ˈskĩːm] |
-| segue | ✅ [ˈsɛɡʷ we̞ɪ̯] |
-| SQL | ✅ [ˈɛs ˈkjʊu̯ ˈɛɫ̺] |
-| sudo | ✅ [ˈsʊu̯ɾ ʊu̯] |
-| suite | ✅ [ˈsʷẘiːʔt] |
-| thymeleaf | ✅ [ˈtʰɑ̟̃ɪ̯̃m ˌl̺ɪ̈f] |
-| typical | ✅ [ˈtʰɪ̈p ɘ kəɫ̺] |
-| Ubuntu | ✅ [ˌʊu̯ ˈbʊu̯t ˌʊu̯] |
-| variable | ✅ [ˈve̞ə̯˞ iː ə bəɫ̺] |
-| verbose | ✅ [ˌvɜ˞ː ˈbo̞ʊ̯s] |
-| vue | ✅ [ˈvjʊu̯] |
-| width | ✅ [ˈwɪ̈dθ] |
-| YouTube | ✅ [ˈjʊu̯ ˌtʰʊu̯b] |
+| 单词 | **美式英语音位** | **正宗纽约口音** |
+| ---- | ---------------- | ---------------- |
+| access | /ˈæk ˌses/ | [ˈæk ˌsɛs] |
+| admin | /ˈæd mɪn/ | [ˈeə̯ʔdⁿ mɘ̃n˺] |
+| Adobe | /ə ˈdoʊb i/ | [ə ˈdo̞ʊ̯b iː] |
+| adversarial | /ˌæd və˞ ˈseɹ i l̩/ | [ˌeə̯d və˞ː ˈse̞ə̯˞ iː ɫ̺̩] |
+| agile | /ˈæʤ l̩/ | [ˈeə̯ʷd͡ʒʷ ɫ̺̩] |
+| AJAX | /ˈeɪʤ ˌæks/ | [ˈe̞ɪ̯ʷd͡ʒʷ ˌæks] |
+| alias | /ˈeɪl i əs/ | [ˈe̞ɪ̯ɫ̺ iː əs] |
+| amazon | /ˈæm ə ˌzɑn/ | [ˈæ̃m ə ˌzɑ̃ːn˺] |
+| analogy | /ə ˈnæl ə ʤi/ | [ə̃ ˈnæɫ̺ əʷ d͡ʒʷiː] |
+| Angular | /ˈæŋ gjəl ə˞/ | [ˈæ̃ŋ ɡjəɫ̺ ə˞ː] |
+| Apache | /ə ˈpæʧ i/ | [ə ˈpʰæʷʔt͡ʃʷ iː] |
+| app | /ˈæp/ | [ˈæp] |
+| archive | /ˈɑɹ ˌkaɪv/ | [ˈɒə̯˞ ˌkʰɑ̟ɪ̯v] |
+| array | /ə˞ ˈɹeɪ/ | [ə˞ːʷ ˈɹ̠ʷe̞ɪ̯] |
+| ASCII | /ˈæsk i/ | [ˈæsk iː] |
+| aspect | /ˈæsp ˌekt/ | [ˈeə̯sp ˌɛk˺ʔt] |
+| avatar | /ˈæv ə ˌtɑɹ/ | [ˈæv ə ˌtʰɒə̯˞] |
+| Azure | /ˈæʒ ə˞/ | [ˈæʷʒʷ ə˞ː] |
+| bind | /ˈbaɪnd/ | [ˈbɑ̟̃ɪ̯̃nd] |
+| cache | /ˈkæʃ/ | [ˈkʰeə̯ʷʃʷ] |
+| clang | /ˈklæŋ/ | [ˈkʰl̺̊ẽə̯̃ŋ˺] |
+| daemon | /ˈdiːm ən/ | [ˈdĩːm ə̃n˺] |
+| debt | /ˈdet/ | [ˈdɛʔt] |
+| deny | /dɪ ˈnaɪ/ | [dɘ̃ ˈnɑ̟ɪ̯] |
+| deque | /ˈdek/ | [ˈdɛk] |
+| digest _n._ | /ˈdaɪʤ est/ | [ˈdɑ̟ɪ̯ʷd͡ʒʷ ɛsʔt] |
+| digest _v._ | /daɪ ˈʤest/ | [dɑ̟ɪ̯ʷ ˈd͡ʒʷɛsʔt] |
+| Dijkstra | /ˈdaɪk stɹə/ | [ˈdɑ̟ɪ̯k st̠͡ɹ̠̊˔ʷə] |
+| Django | /ˈʤæŋ gəl/ | [ˈd͡ʒʷẽə̯̃ŋ ɡəɫ̺] |
+| doc | /ˈdɑk/ | [ˈdɑːk] |
+| epoch | /ˈep ək/ | [ˈɛp ək] |
+| event | /ɪ ˈvent/ | [ɘ ˈvɛ̃nʔt] |
+| facade | /fə ˈsɑd/ | [fə ˈsɑːd] |
+| fedora | /fɪ ˈdɔɹ ə/ | [fɘ ˈdo̞ə̯˞ ə] |
+| format | /ˈfɔɹ ˌmæt/ | [ˈfo̞ə̯̃˞ ˌmæʔt] |
+| git | /ˈgɪt/ | [ˈɡɪ̈ʔt] |
+| GNU | /gə ˈnu/ | [ɡə̃ ˈnʊu̯] |
+| GraphQL | /ˈgɹæf ˈkju ˈel/ | [ˈɡʷɹ̠ʷeə̯f ˈkʰjʊu̯ ˈɛɫ̺] |
+| GUI | /ˈgu i/ | [ˈɡʊu̯ iː] |
+| Haskell | /ˈhæsk l̩/ | [ˈhæsk ɫ̺̩] |
+| height | /ˈhaɪt/ | [ˈhɑ̟ɪ̯ʔt] |
+| hidden | /ˈhɪd n̩/ | [ˈhɪ̈ʔdⁿ n̩˺] |
+| image | /ˈɪm ɪʤ/ | [ˈɪ̈̃m ɘʷd͡ʒʷ] |
+| implement | /ˈɪmp lə mənt/ | [ˈɪ̈̃mp l̺̊ə̃ mə̃nʔt] |
+| integer | /ˈɪnt əʤ ə˞/ | [ˈɪ̈̃n əʷd͡ʒʷ ə˞ː] |
+| issue | /ˈɪʃ u/ | [ˈɪ̈ʷʃʷ ʊu̯] |
+| Java | /ˈʤɑv ə/ | [ˈd͡ʒʷɑːv ə] |
+| jpg | /ˈʤeɪ peg/ | [ˈd͡ʒʷe̞ɪ̯ pɛɡ] |
+| key | /ˈkiː/ | [ˈkʰiː] |
+| lambda | /ˈlæm də/ | [ˈl̺ẽə̯̃m də] |
+| linear | /ˈlɪn i ə˞/ | [ˈl̺ɪ̈̃n iː ə˞ː] |
+| Linux | /ˈlɪn əks/ | [ˈl̺ɪ̈̃n əks] |
+| locale | /loʊ ˈkæl/ | [l̺o̞ʊ̯ ˈkʰæɫ̺] |
+| Lucene | /lu ˈsiːn/ | [l̺ʊu̯ ˈsĩːn˺] |
+| main | /ˈmeɪn/ | [ˈmẽ̞ɪ̯̃n˺] |
+| margin | /ˈmɑɹʤ n̩/ | [ˈmɒə̯˞ʷd͡ʒʷ n̩˺] |
+| matrix | /ˈmeɪ tɹɪks/ | [ˈme̞ɪ̯ t̠͡ɹ̠̊˔ʷɘks] |
+| maven | /ˈmeɪv n̩/ | [ˈme̞ɪ̯v n̩˺] |
+| Microsoft | /ˈmaɪk ˌɹoʊ ˈsɔft/ | [ˈmɑ̟ɪ̯kʷ ˌɹ̠̊ʷo̞ʊ̯ ˈsɔə̯fʔt] |
+| module | /ˈmɑʤ ul/ | [ˈmɑːʷd͡ʒʷ ʊu̯ɫ̺] |
+| nginx | /ˈenʤ ɪn ˈeks/ | [ˈɛ̃nʷd͡ʒʷ ɘ̃n ˈɛks] |
+| null | /ˈnʌl/ | [ˈnʌ̟ɫ̺] |
+| OS X | /ˈoʊ ˈes ˈten/ | [ˈo̞ʊ̯ ˈɛs ˈtɛ̃n˺] |
+| paradox | /ˈpeɹ ə ˌdɑks/ | [ˈpʰe̞ə̯˞ ə ˌdɑːks] |
+| parameter | /pə˞ ˈɹæm ət ə˞/ | [pə˞ːʷ ˈɹ̠ʷæ̃m əɾ ə˞ː] |
+| phantom | /ˈfænt m̩/ | [ˈfẽə̯̃nʔtⁿ m̩] |
+| privilege | /ˈpɹɪv ɪ lɪʤ/ | [ˈpʰʷɹ̠̊ʷɪ̈v ɘ l̺ɘʷd͡ʒʷ] |
+| prometheus | /pɹə ˈmiːθ ˌiː əs/ | [pʷɹ̠̊ʷə̃ ˈmiːθ ˌiː əs] |
+| putty | /ˈpʌt i/ | [ˈpʰʌ̟ɾ iː] |
+| Qt | /ˈkjut/ | [ˈkʰjʊu̯ʔt] |
+| query | /ˈkwiːɹ i/ | [ˈkʰʷẘiːʷɹ̠ʷ iː] |
+| realm | /ˈɹelm/ | [ˈɹ̠ʷɛɫ̺m] |
+| reconcile | /ˈɹek n̩ ˌsaɪl/ | [ˈɹ̠ʷɛk n̩ ˌsɑ̟ɪ̯ɫ̺] |
+| Redux | /ˈɹiːd ˌʌks/ | [ˈɹ̠ʷiːd ˌʌ̟ks] |
+| resolved | /ɹi ˈzɑlvd/ | [ɹ̠ʷiː ˈzɑːɫ̺vd] |
+| resort | /ɹɪ ˈzɔɹt/ | [ɹ̠ʷɘ ˈzo̞ə̯˞ʔt] |
+| resume | /ɹɪ ˈzum/ | [ɹ̠ʷɘ ˈzʊ̃ũ̯m] |
+| retina | /ˈɹet nə/ | [ˈɹ̠ʷɛʔtⁿ nə] |
+| route | /ˈɹut/ | [ˈɹ̠ʷʊu̯ʔt] |
+| route | /ˈɹaʊt/ | [ˈɹ̠ʷaʊ̯ʔt] |
+| safari | /sə ˈfɑɹ i/ | [sə ˈfɒə̯˞ iː] |
+| San Jose | /ˌsæn hoʊ ˈzeɪ/ | [ˌsæ̃n ho̞ʊ̯ ˈze̞ɪ̯] |
+| scala | /ˈskɑl ə/ | [ˈskɑːɫ̺ ə] |
+| scheme | /ˈskiːm/ | [ˈskĩːm] |
+| segue | /ˈseg weɪ/ | [ˈsɛɡʷ we̞ɪ̯] |
+| SQL | /ˈes ˈkju ˈel/ | [ˈɛs ˈkjʊu̯ ˈɛɫ̺] |
+| sudo | /ˈsud u/ | [ˈsʊu̯ɾ ʊu̯] |
+| suite | /ˈswiːt/ | [ˈsʷẘiːʔt] |
+| thymeleaf | /ˈtaɪm ˌlɪf/ | [ˈtʰɑ̟̃ɪ̯̃m ˌl̺ɪ̈f] |
+| typical | /ˈtɪp ɪ kəl/ | [ˈtʰɪ̈p ɘ kəɫ̺] |
+| Ubuntu | /ˌu ˈbut ˌu/ | [ˌʊu̯ ˈbʊu̯t ˌʊu̯] |
+| variable | /ˈveɹ i ə bəl/ | [ˈve̞ə̯˞ iː ə bəɫ̺] |
+| verbose | /ˌvɜ˞ ˈboʊs/ | [ˌvɜ˞ː ˈbo̞ʊ̯s] |
+| vue | /ˈvju/ | [ˈvjʊu̯] |
+| width | /ˈwɪdθ/ | [ˈwɪ̈dθ] |
+| YouTube | /ˈju ˌtub/ | [ˈjʊu̯ ˌtʰʊu̯b] |
 
 
 ## 看不懂，怎么办？

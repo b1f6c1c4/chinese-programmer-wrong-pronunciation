@@ -12,9 +12,11 @@ for (let e of data) {
     let resW = e.word;
     if (e.pos) resW += ` _${e.pos}_`;
     const { aeHint, syllableHint } = e;
+    let resP = e.ph && jfk.process(e.ph, e.word, true, { aeHint, syllableHint });
+    resP = resP ? jfk.unicode(resP) : '';
     let resJ = e.ph && jfk.process(e.ph, e.word, false, { aeHint, syllableHint });
-    resJ = resJ ? `✅ ${jfk.unicode(resJ)}` : '';
-    tbl += `| ${resW} | ${resJ} |\n`
+    resJ = resJ ? jfk.unicode(resJ) : '';
+    tbl += `| ${resW} | ${resP} | ${resJ} |\n`
   } catch (err) {
     console.error(e, err);
   }
@@ -24,8 +26,8 @@ const readme = `# programming-pronunciations-en\\_US
 
 程序员容易发音错误的单词，国际音标严式记音，正宗美国纽约口音
 
-| 单词 | **正宗纽约口音** |
-| ---- | ------- |
+| 单词 | **美式英语音位** | **正宗纽约口音** |
+| ---- | ---------------- | ---------------- |
 ${tbl}
 
 ## 看不懂，怎么办？
