@@ -54,7 +54,7 @@
     },
     {
         word: 'array',
-        ph: 'ER0 EY1',
+        ph: 'AH0 EY1',
     },
     {
         word: 'ASCII',
@@ -117,7 +117,7 @@
     },
     {
         word: 'Django',
-        ph: 'JH AE1 NG G AH0 L',
+        ph: 'JH AE1 NG G OW0',
     },
     {
         word: 'doc',
@@ -227,7 +227,7 @@
     },
     {
         word: 'margin',
-        ph: 'M AA1 R JH AH0 N',
+        ph: 'M AA1 R JH IH0 N',
     },
     {
         word: 'matrix',
@@ -239,7 +239,7 @@
     },
     {
         word: 'Microsoft',
-        ph: 'M AY1 K R OW2 S AO1 F T',
+        ph: 'M AY1 K R AH0 S AO0 F T',
     },
     {
         word: 'module',
@@ -261,11 +261,11 @@
     },
     {
         word: 'paradox',
-        ph: 'P EH1 R AH0 D AA2 K S',
+        ph: 'P AE1 R AH0 D AA2 K S',
     },
     {
         word: 'parameter',
-        ph: 'P ER0 AE1 M AH0 T ER0',
+        ph: 'P AH0 AE1 M AH0 T ER0',
     },
     {
         word: 'phantom',
@@ -273,10 +273,10 @@
     },
     {
         word: 'privilege',
-        ph: 'P R IH1 V IH0 L IH0 JH',
+        ph: 'P R IH1 V AH0 L IH0 JH',
     },
     {
-        word: 'prometheus',
+        word: 'Prometheus',
         ph: 'P R AH0 M IY1 TH IY2 AH0 S',
     },
     {
@@ -289,7 +289,7 @@
     },
     {
         word: 'query',
-        ph: 'K W IY1 R IY0',
+        ph: 'K W IH1 R IY0',
     },
     {
         word: 'realm',
@@ -302,6 +302,10 @@
     {
         word: 'Redux',
         ph: 'R IY1 D AH2 K S',
+    },
+    {
+        word: 'Redux',
+        ph: 'R IY2 D AH1 K S',
     },
     {
         word: 'resolved',
