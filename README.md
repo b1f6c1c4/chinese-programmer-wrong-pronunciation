@@ -7,13 +7,13 @@
 | access | /ˈæk ˌses/ | [ˈæk ˌsɛs] |
 | admin | /ˈæd mɪn/ | [ˈeə̯ʔdⁿ mɘ̃n˺] |
 | Adobe | /ə ˈdoʊb i/ | [ə ˈdo̞ʊ̯b iː] |
-| adversarial | /ˌæd və˞ː ˈseɹ i əl/ | [ˌeə̯d və˞ː ˈse̞ə̯˞ iː ɫ̺̩] |
+| adversarial | /ˌæd və˞ ˈseɹ i əl/ | [ˌeə̯d vɹ̠̩ ˈse̞ə̯˞ iː ɫ̺̩] |
 | agile | /ˈæʤ əl/ | [ˈeə̯ʷd͡ʒʷ ɫ̺̩] |
 | AJAX | /ˈeɪʤ ˌæks/ | [ˈe̞ɪ̯ʷd͡ʒʷ ˌæks] |
-| alias | /ˈeɪl i əs/ | [ˈe̞ɪ̯ɫ̺ iː əs] |
+| alias | /ˈeɪl i əs/ | [ˈe̞ɪ̯ɫ̺ i‿ə̯s] |
 | amazon | /ˈæm ə ˌzɑːn/ | [ˈæ̃m ə ˌzɑ̃ːn˺] |
 | analogy | /ə ˈnæl ə ʤi/ | [ə̃ ˈnæɫ̺ əʷ d͡ʒʷiː] |
-| Angular | /ˈæŋ gjəl ə˞ː/ | [ˈæ̃ŋ ɡjəɫ̺ ə˞ː] |
+| Angular | /ˈæŋ gjəl ə˞/ | [ˈæ̃ŋ ɡjəɫ̺ ɹ̠̩] |
 | Apache | /ə ˈpæʧ i/ | [ə ˈpʰæʷʔt͡ʃʷ iː] |
 | app | /ˈæp/ | [ˈæp] |
 | archive | /ˈɑːɹ ˌkaɪv/ | [ˈɒə̯˞ ˌkʰɑ̟ɪ̯v] |
@@ -21,7 +21,7 @@
 | ASCII | /ˈæsk i/ | [ˈæsk iː] |
 | aspect | /ˈæsp ˌekt/ | [ˈeə̯sp ˌɛk˺ʔt] |
 | avatar | /ˈæv ə ˌtɑːɹ/ | [ˈæv ə ˌtʰɒə̯˞] |
-| Azure | /ˈæʒ ə˞ː/ | [ˈæʷʒʷ ə˞ː] |
+| Azure | /ˈæʒ ə˞/ | [ˈæʷʒʷ ɹ̠̩] |
 | bind | /ˈbaɪnd/ | [ˈbɑ̟̃ɪ̯̃nd] |
 | cache | /ˈkæʃ/ | [ˈkʰeə̯ʷʃʷ] |
 | clang | /ˈklæŋ/ | [ˈkʰl̺̊ẽə̯̃ŋ˺] |
@@ -48,13 +48,13 @@
 | hidden | /ˈhɪd ən/ | [ˈhɪ̈ʔdⁿ n̩˺] |
 | image | /ˈɪm ɪʤ/ | [ˈɪ̈̃m ɘʷd͡ʒʷ] |
 | implement | /ˈɪmp lə mənt/ | [ˈɪ̈̃mp l̺̊ə̃ mə̃nʔt] |
-| integer | /ˈɪnt əʤ ə˞ː/ | [ˈɪ̈̃n əʷd͡ʒʷ ə˞ː] |
+| integer | /ˈɪnt əʤ ə˞/ | [ˈɪ̈̃n əʷd͡ʒʷ ɹ̠̩] |
 | issue | /ˈɪʃ uː/ | [ˈɪ̈ʷʃʷ ʊu̯] |
 | Java | /ˈʤɑːv ə/ | [ˈd͡ʒʷɑːv ə] |
 | jpg | /ˈʤeɪ peg/ | [ˈd͡ʒʷe̞ɪ̯ pɛɡ] |
 | key | /ˈkiː/ | [ˈkʰiː] |
 | lambda | /ˈlæm də/ | [ˈl̺ẽə̯̃m də] |
-| linear | /ˈlɪn i ə˞ː/ | [ˈl̺ɪ̈̃n iː ə˞ː] |
+| linear | /ˈlɪn i ə˞/ | [ˈl̺ɪ̈̃n iː ɹ̠̩] |
 | Linux | /ˈlɪn əks/ | [ˈl̺ɪ̈̃n əks] |
 | locale | /loʊ ˈkæl/ | [l̺o̞ʊ̯ ˈkʰæɫ̺] |
 | Lucene | /luː ˈsiːn/ | [l̺ʊu̯ ˈsĩːn˺] |
@@ -68,9 +68,9 @@
 | null | /ˈnʌl/ | [ˈnʌ̟ɫ̺] |
 | OS X | /ˈoʊ ˈes ˈten/ | [ˈo̞ʊ̯ ˈɛs ˈtʰɛ̃n˺] |
 | paradox | /ˈpæɹ ə ˌdɑːks/ | [ˈpʰæʷɹ̠ʷ ə ˌdɑːks] |
-| parameter | /pə ˈæm ət ə˞ː/ | [pə ˈæ̃m əɾ ə˞ː] |
+| parameter | /pə ˈæm ət ə˞/ | [pə ˈæ̃m ə ʔt͡ɹ̠˔̩] |
 | phantom | /ˈfænt əm/ | [ˈfẽə̯̃nʔtⁿ m̩] |
-| privilege | /ˈpɹɪv ə lɪʤ/ | [ˈpʰʷɹ̠̊ʷɪ̈v l̺ɘʷd͡ʒʷ] |
+| privilege | /ˈpɹɪv ə lɪʤ/ | [ˈpʰʷɹ̠̊ʷɪ̈v ə l̺ɘʷd͡ʒʷ] |
 | Prometheus | /pɹə ˈmiːθ ˌiː əs/ | [pʷɹ̠̊ʷə̃ ˈmiːθ ˌiː əs] |
 | putty | /ˈpʌt i/ | [ˈpʰʌ̟ɾ iː] |
 | Qt | /ˈkjuːt/ | [ˈkʰjʊu̯ʔt] |
@@ -82,7 +82,7 @@
 | resolved | /ɹi ˈzɑːlvd/ | [ɹ̠ʷiː ˈzɑːɫ̺vd] |
 | resort | /ɹɪ ˈzɔːɹt/ | [ɹ̠ʷɘ ˈzo̞ə̯˞ʔt] |
 | resume | /ɹɪ ˈzuːm/ | [ɹ̠ʷɘ ˈzʊ̃ũ̯m] |
-| retina | /ˈɹet ə nə/ | [ˈɹ̠ʷɛʔtⁿ nə] |
+| retina | /ˈɹet ən ə/ | [ˈɹ̠ʷɛʔtⁿ n̩‿ə̯] |
 | route | /ˈɹuːt/ | [ˈɹ̠ʷʊu̯ʔt] |
 | route | /ˈɹaʊt/ | [ˈɹ̠ʷaʊ̯ʔt] |
 | safari | /sə ˈfɑːɹ i/ | [sə ˈfɒə̯˞ iː] |
@@ -96,7 +96,7 @@
 | thymeleaf | /ˈtaɪm ˌlɪf/ | [ˈtʰɑ̟̃ɪ̯̃m ˌl̺ɪ̈f] |
 | typical | /ˈtɪp ɪ kəl/ | [ˈtʰɪ̈p ɘ kəɫ̺] |
 | Ubuntu | /ˌuː ˈbuːt ˌuː/ | [ˌʊu̯ ˈbʊu̯t ˌʊu̯] |
-| variable | /ˈveɹ i ə bəl/ | [ˈve̞ə̯˞ iː ə bəɫ̺] |
+| variable | /ˈveɹ i ə bəl/ | [ˈve̞ə̯˞ i‿ə̯ bəɫ̺] |
 | verbose | /ˌvɜ˞ː ˈboʊs/ | [ˌvɜ˞ː ˈbo̞ʊ̯s] |
 | vue | /ˈvjuː/ | [ˈvjʊu̯] |
 | width | /ˈwɪdθ/ | [ˈwɪ̈dθ] |
