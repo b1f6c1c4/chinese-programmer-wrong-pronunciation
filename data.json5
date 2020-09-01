@@ -54,7 +54,7 @@
     },
     {
         word: 'array',
-        ph: 'AH0 EY1',
+        ph: 'AH0 R EY1',
     },
     {
         word: 'ASCII',
@@ -265,7 +265,7 @@
     },
     {
         word: 'parameter',
-        ph: 'P AH0 AE1 M AH0 T ER0',
+        ph: 'P AH0 R AE1 M AH0 T ER0',
     },
     {
         word: 'phantom',

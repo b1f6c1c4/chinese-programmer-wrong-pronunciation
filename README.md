@@ -17,7 +17,7 @@
 | Apache | /ə ˈpæʧ i/ | [ə ˈpʰæʷʔt͡ʃʷ iː] |
 | app | /ˈæp/ | [ˈæp] |
 | archive | /ˈɑːɹ ˌkaɪv/ | [ˈɒə̯˞ ˌkʰɑ̟ɪ̯v] |
-| array | /ə ˈeɪ/ | [ə ˈe̞ɪ̯] |
+| array | /ə ˈɹeɪ/ | [əʷ ˈɹ̠ʷe̞ɪ̯] |
 | ASCII | /ˈæsk i/ | [ˈæsk iː] |
 | aspect | /ˈæsp ˌekt/ | [ˈeə̯sp ˌɛk˺ʔt] |
 | avatar | /ˈæv ə ˌtɑːɹ/ | [ˈæv ə ˌtʰɒə̯˞] |
@@ -68,7 +68,7 @@
 | null | /ˈnʌl/ | [ˈnʌ̟ɫ̺] |
 | OS X | /ˈoʊ ˈes ˈten/ | [ˈo̞ʊ̯ ˈɛs ˈtʰɛ̃n˺] |
 | paradox | /ˈpæɹ ə ˌdɑːks/ | [ˈpʰæʷɹ̠ʷ ə ˌdɑːks] |
-| parameter | /pə ˈæm ət ə˞/ | [pə ˈæ̃m ə ʔt͡ɹ̠˔̩] |
+| parameter | /pə ˈɹæm ət ə˞/ | [pəʷ ˈɹ̠ʷæ̃m ə ʔt͡ɹ̠˔̩] |
 | phantom | /ˈfænt əm/ | [ˈfẽə̯̃nʔtⁿ m̩] |
 | privilege | /ˈpɹɪv ə lɪʤ/ | [ˈpʰʷɹ̠̊ʷɪ̈v ə l̺ɘʷd͡ʒʷ] |
 | Prometheus | /pɹə ˈmiːθ ˌiː əs/ | [pʷɹ̠̊ʷə̃ ˈmiːθ ˌiː əs] |
