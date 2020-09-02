@@ -260,10 +260,6 @@
         syllableHint: '0 1',
     },
     {
-        word: 'paradox',
-        ph: 'P AE1 R AH0 D AA2 K S',
-    },
-    {
         word: 'parameter',
         ph: 'P AH0 R AE1 M AH0 T ER0',
     },
