@@ -1,0 +1,39 @@
+name: Merge upstream
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 12 * * *"
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Switch to staging
+        uses: actions/checkout@v2
+        with:
+          ref: staging
+      - name: Prepare npm
+        run: npm ci
+      - name: Merge upstream to staging
+        run: |
+          set -ux
+          git fetch -f https://github.com/shimohq/chinese-programmer-wrong-pronunciation.git master:refs/remotes/upstream/master
+          echo "Merge remote-tracking branch 'upstream/master' into staging" > msg
+          echo '' >> msg
+          git cat-file blob upstream/master:README.md \
+              | awk -F '[| ]' '/^\|\s*[A-Za-z0-9]+\s*\|/ { print $3; }' \
+              | ./upgrade.js 2>&1 | tee -a msg
+          ./generate.js
+          git add -u
+          if [ -z "$(git status --porcelain)" ]; then
+              echo 'Nothing to commit.'
+          else
+              GIT_AUTHOR_NAME='GitHub Actions' \
+              GIT_AUTHOR_EMAIL='actions@github.com' \
+              GIT_COMMITTER_NAME='GitHub' \
+              GIT_COMMITTER_EMAIL='noreply@github.com' \
+              git commit-tree $(git write-tree) -p staging -p upstream/master < msg | tee sha
+              git update-ref HEAD "$(cat sha)"
+              git push origin staging
+          fi
