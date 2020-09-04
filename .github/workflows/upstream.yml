@@ -17,7 +17,7 @@ jobs:
         run: npm ci
       - name: Merge upstream to staging
         run: |
-          set -ux
+          set -eux
           git fetch -f https://github.com/shimohq/chinese-programmer-wrong-pronunciation.git master:refs/remotes/upstream/master
           echo "Merge remote-tracking branch 'upstream/master' into staging" > msg
           echo '' >> msg
@@ -36,4 +36,23 @@ jobs:
               git commit-tree $(git write-tree) -p staging -p upstream/master < msg | tee sha
               git update-ref HEAD "$(cat sha)"
               git push origin staging
+              touch pr
+          fi
+      - name: Create PR if needed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          [ -f pr ] || exit 0
+          set -eux
+          if curl -sSL \
+              -H "Authorization: token $GITHUB_TOKEN" \
+              -H "Accept: application/vnd.github.v3+json" \
+              "$GITHUB_API_URL/repos/$GITHUB_REPOSITORY/pulls?base=master&head=staging" | grep -q '"id"'; then
+              echo 'Already there.'
+          else
+              curl -sSL \
+                  -H "Authorization: token $GITHUB_TOKEN" \
+                  -H "Accept: application/vnd.github.v3+json" \
+                  -X POST --data "{\"title\":\"Add new words from upstream\",\"base\":\"master\",\"head\":\"staging\"}" \
+                  "https://api.github.com/repos/$GITHUB_REPOSITORY/pulls"
           fi
