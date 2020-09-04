@@ -26,7 +26,7 @@ jobs:
               | ./upgrade.js 2>&1 | tee -a msg
           ./generate.js
           git add -u
-          if [ -z "$(git status --porcelain)" ]; then
+          if [ -z "$(git status -uno --porcelain)" ]; then
               echo 'Nothing to commit.'
           else
               GIT_AUTHOR_NAME='GitHub Actions' \
