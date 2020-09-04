@@ -98,6 +98,10 @@
         ph: 'D IH0 N AY1',
     },
     {
+        word: 'deprecate',
+        ph: 'D EH1 P R AH0 K EY2 T',
+    },
+    {
         word: 'deque',
         ph: 'D EH1 K',
     },
@@ -144,12 +148,19 @@
         ph: 'F AO1 R M AE2 T',
     },
     {
+        word: 'gauge',
+        ph: 'G EY1 JH',
+    },
+    {
         word: 'git',
         ph: 'G IH1 T',
     },
     {
         word: 'GNU',
         ph: 'G AH0 N UW1',
+    },
+    {
+        word: 'Grafana',
     },
     {
         word: 'GraphQL',
@@ -200,6 +211,9 @@
     {
         word: 'key',
         ph: 'K IY1',
+    },
+    {
+        word: 'Kubernetes',
     },
     {
         word: 'lambda',
@@ -253,6 +267,10 @@
     {
         word: 'null',
         ph: 'N AH1 L',
+    },
+    {
+        word: 'obsolete',
+        ph: 'AA1 B S AH0 L IY2 T',
     },
     {
         word: 'OS X',

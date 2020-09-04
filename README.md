@@ -28,6 +28,7 @@
 | daemon | /ˈdiːm ən/ | [ˈdĩːm ə̃n˺] |
 | debt | /ˈdet/ | [ˈdɛʔt] |
 | deny | /dɪ ˈnaɪ/ | [dɘ̃ ˈnɑ̟ɪ̯] |
+| deprecate | /ˈdep ɹə ˌkeɪt/ | [ˈdɛpʷ ɹ̠̊ʷə ˌkʰe̞ɪ̯ʔt] |
 | deque | /ˈdek/ | [ˈdɛk] |
 | digest _n._ | /ˈdaɪʤ est/ | [ˈdɑ̟ɪ̯ʷd͡ʒʷ ɛsʔt] |
 | digest _v._ | /daɪ ˈʤest/ | [dɑ̟ɪ̯ʷ ˈd͡ʒʷɛsʔt] |
@@ -39,8 +40,10 @@
 | facade | /fə ˈsɑːd/ | [fə ˈsɑːd] |
 | fedora | /fɪ ˈdɔːɹ ə/ | [fɘ ˈdo̞ə̯˞ ə] |
 | format | /ˈfɔːɹ ˌmæt/ | [ˈfo̞ə̯̃˞ ˌmæʔt] |
+| gauge | /ˈgeɪʤ/ | [ˈɡe̞ɪ̯ʷd͡ʒʷ] |
 | git | /ˈgɪt/ | [ˈɡɪ̈ʔt] |
 | GNU | /gə ˈnuː/ | [ɡə̃ ˈnʊu̯] |
+| Grafana |  |  |
 | GraphQL | /ˈgɹæf ˈkjuː ˈel/ | [ˈɡʷɹ̠ʷeə̯f ˈkʰjʊu̯ ˈɛɫ̺] |
 | GUI | /ˈguː i/ | [ˈɡʊu̯ iː] |
 | Haskell | /ˈhæsk əl/ | [ˈhæsk ɫ̺̩] |
@@ -53,6 +56,7 @@
 | Java | /ˈʤɑːv ə/ | [ˈd͡ʒʷɑːv ə] |
 | jpg | /ˈʤeɪ peg/ | [ˈd͡ʒʷe̞ɪ̯ pɛɡ] |
 | key | /ˈkiː/ | [ˈkʰiː] |
+| Kubernetes |  |  |
 | lambda | /ˈlæm də/ | [ˈl̺ẽə̯̃m də] |
 | linear | /ˈlɪn i ə˞/ | [ˈl̺ɪ̈̃n iː ɹ̠̩] |
 | Linux | /ˈlɪn əks/ | [ˈl̺ɪ̈̃n əks] |
@@ -66,8 +70,9 @@
 | module | /ˈmɑːʤ uːl/ | [ˈmɑːʷd͡ʒʷ ʊu̯ɫ̺] |
 | nginx | /ˈenʤ ɪn ˈeks/ | [ˈɛ̃nʷd͡ʒʷ ɘ̃n ˈɛks] |
 | null | /ˈnʌl/ | [ˈnʌ̟ɫ̺] |
+| obsolete | /ˈɑːb sə ˌliːt/ | [ˈɑːb sə ˌl̺iːʔt] |
 | OS X | /ˈoʊ ˈes ˈten/ | [ˈo̞ʊ̯ ˈɛs ˈtʰɛ̃n˺] |
-| parameter | /pə ˈɹæm ət ə˞/ | [pəʷ ˈɹ̠ʷæ̃m əʔɾ ɹ̠˔̩] |
+| parameter | /pə ˈɹæm ət ə˞/ | [pəʷ ˈɹ̠ʷæ̃m ə ʔt͡ɹ̠˔̩] |
 | phantom | /ˈfænt əm/ | [ˈfẽə̯̃nʔtⁿ m̩] |
 | privilege | /ˈpɹɪv ə lɪʤ/ | [ˈpʰʷɹ̠̊ʷɪ̈v ə l̺ɘʷd͡ʒʷ] |
 | Prometheus | /pɹə ˈmiːθ ˌiː əs/ | [pʷɹ̠̊ʷə̃ ˈmiːθ ˌiː əs] |
