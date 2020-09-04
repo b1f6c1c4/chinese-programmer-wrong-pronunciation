@@ -43,7 +43,7 @@
 | gauge | /ˈgeɪʤ/ | [ˈɡe̞ɪ̯ʷd͡ʒʷ] |
 | git | /ˈgɪt/ | [ˈɡɪ̈ʔt] |
 | GNU | /gə ˈnuː/ | [ɡə̃ ˈnʊu̯] |
-| Grafana |  |  |
+| Grafana | /gɹə ˈfɑːn ˌɑː/ | [ɡʷɹ̠ʷə ˈfɑ̃ːn ˌɑː] |
 | GraphQL | /ˈgɹæf ˈkjuː ˈel/ | [ˈɡʷɹ̠ʷeə̯f ˈkʰjʊu̯ ˈɛɫ̺] |
 | GUI | /ˈguː i/ | [ˈɡʊu̯ iː] |
 | Haskell | /ˈhæsk əl/ | [ˈhæsk ɫ̺̩] |
@@ -56,7 +56,7 @@
 | Java | /ˈʤɑːv ə/ | [ˈd͡ʒʷɑːv ə] |
 | jpg | /ˈʤeɪ peg/ | [ˈd͡ʒʷe̞ɪ̯ pɛɡ] |
 | key | /ˈkiː/ | [ˈkʰiː] |
-| Kubernetes |  |  |
+| Kubernetes | /ˈkuːb ə˞ ˌnet iz/ | [ˈkʰʊu̯b ɹ̠̩ ˌnɛɾ iːz] |
 | lambda | /ˈlæm də/ | [ˈl̺ẽə̯̃m də] |
 | linear | /ˈlɪn i ə˞/ | [ˈl̺ɪ̈̃n iː ɹ̠̩] |
 | Linux | /ˈlɪn əks/ | [ˈl̺ɪ̈̃n əks] |
@@ -70,9 +70,9 @@
 | module | /ˈmɑːʤ uːl/ | [ˈmɑːʷd͡ʒʷ ʊu̯ɫ̺] |
 | nginx | /ˈenʤ ɪn ˈeks/ | [ˈɛ̃nʷd͡ʒʷ ɘ̃n ˈɛks] |
 | null | /ˈnʌl/ | [ˈnʌ̟ɫ̺] |
-| obsolete | /ˈɑːb sə ˌliːt/ | [ˈɑːb sə ˌl̺iːʔt] |
+| obsolete | /ˌɑːb sə ˈliːt/ | [ˌɑːb sə ˈl̺iːʔt] |
 | OS X | /ˈoʊ ˈes ˈten/ | [ˈo̞ʊ̯ ˈɛs ˈtʰɛ̃n˺] |
-| parameter | /pə ˈɹæm ət ə˞/ | [pəʷ ˈɹ̠ʷæ̃m ə ʔt͡ɹ̠˔̩] |
+| parameter | /pə ˈɹæm ət ə˞/ | [pəʷ ˈɹ̠ʷæ̃m əʔɾ ɹ̠˔̩] |
 | phantom | /ˈfænt əm/ | [ˈfẽə̯̃nʔtⁿ m̩] |
 | privilege | /ˈpɹɪv ə lɪʤ/ | [ˈpʰʷɹ̠̊ʷɪ̈v ə l̺ɘʷd͡ʒʷ] |
 | Prometheus | /pɹə ˈmiːθ ˌiː əs/ | [pʷɹ̠̊ʷə̃ ˈmiːθ ˌiː əs] |

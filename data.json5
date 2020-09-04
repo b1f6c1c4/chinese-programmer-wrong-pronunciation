@@ -161,6 +161,7 @@
     },
     {
         word: 'Grafana',
+        ph: 'G R AH0 F AA1 N AA2',
     },
     {
         word: 'GraphQL',
@@ -214,6 +215,7 @@
     },
     {
         word: 'Kubernetes',
+        ph: 'K UW1 B ER0 N EH2 T IY0 Z',
     },
     {
         word: 'lambda',
@@ -270,7 +272,7 @@
     },
     {
         word: 'obsolete',
-        ph: 'AA1 B S AH0 L IY2 T',
+        ph: 'AA2 B S AH0 L IY1 T',
     },
     {
         word: 'OS X',
