@@ -18,20 +18,29 @@ const rl = readline.createInterface({
 rl.on('line', (word) => {
   if (exists[word.toUpperCase()]) return;
   const phss = jfk.queryDatabase(word);
+  const disp = (ph) => {
+    console.log(ph);
+    let res = ph;
+    res += '  ';
+    res += jfk.unicode(jfk.process(ph, word, true));
+    res += '  ';
+    res += jfk.unicode(jfk.process(ph, word, false));
+    return res;
+  };
   const o = { word };
-  if (!phss) {
+  if (!phss || !phss.length) {
     console.error(`Warning: No pronunciation found for ${word}`);
   } else if (phss.length === 1) {
     o.ph = phss[0];
-    console.error(`Info: New word: ${word}: ${o.ph}`);
+    console.error(`Info: New word: ${word}: ${disp(o.ph)}`);
   } else {
     phss.forEach((ph) => {
-      console.error(`Warning: Multiple pronunciations for ${word}: ${ph}`);
+      console.error(`Warning: Multiple pronunciations for ${word}: ${disp(ph)}`);
     });
     o.ph = phss[0];
   }
   if (/\bAE[0-2]\b/.test(o.ph)) {
-    console.error(`Warning: Check /ae/ for ${word}: ${o.ph}`);
+    console.error(`Warning: Check /ae/-tensing`);
   }
   data.push(o);
 });
