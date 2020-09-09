@@ -100,6 +100,7 @@
 | thymeleaf | /ˈtaɪm ˌlɪf/ | [ˈtʰɑ̟̃ɪ̯̃m ˌl̺ɪ̈f] |
 | typical | /ˈtɪp ɪ kəl/ | [ˈtʰɪ̈p ɘ kəɫ̺] |
 | Ubuntu | /ˌuː ˈbuːt ˌuː/ | [ˌʊu̯ ˈbʊu̯t ˌʊu̯] |
+| Vagrant | /ˈveɪg ɹənt/ | [ˈve̞ɪ̯ɡʷ ɹ̠ʷə̃nʔt] |
 | variable | /ˈveɹ i ə bəl/ | [ˈve̞ə̯˞ i‿ə̯ bəɫ̺] |
 | verbose | /ˌvɜ˞ː ˈboʊs/ | [ˌvɜ˞ː ˈbo̞ʊ̯s] |
 | vue | /ˈvjuː/ | [ˈvjʊu̯] |
