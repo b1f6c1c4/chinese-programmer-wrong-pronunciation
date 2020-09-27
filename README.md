@@ -37,6 +37,8 @@
 | doc | /ˈdɑːk/ | [ˈdɑːk] |
 | epoch | /ˈep ək/ | [ˈɛp ək] |
 | event | /ɪ ˈvent/ | [ɘ ˈvɛ̃nʔt] |
+| execute | /ˈek sə ˌkjuːt/ | [ˈɛk sə ˌkʰjʊu̯ʔt] |
+| executor | /ɪg ˈze kjət ə˞/ | [ɘɡ ˈzɛ kjəʔɾ ɹ̠˔̩] |
 | facade | /fə ˈsɑːd/ | [fə ˈsɑːd] |
 | fedora | /fɪ ˈdɔːɹ ə/ | [fɘ ˈdo̞ə̯˞ ə] |
 | format | /ˈfɔːɹ ˌmæt/ | [ˈfo̞ə̯̃˞ ˌmæʔt] |

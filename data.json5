@@ -136,6 +136,14 @@
         ph: 'IH0 V EH1 N T',
     },
     {
+        word: 'execute',
+        ph: 'EH1 K S AH0 K Y UW2 T',
+    },
+    {
+        word: 'executor',
+        ph: 'IH0 G Z EH1 K Y AH0 T ER0',
+    },
+    {
         word: 'facade',
         ph: 'F AH0 S AA1 D',
     },
