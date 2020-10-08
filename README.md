@@ -69,6 +69,7 @@
 | matrix | /ˈmeɪ tɹɪks/ | [ˈme̞ɪ̯ t̠͡ɹ̠̊˔ʷɘks] |
 | maven | /ˈmeɪv ən/ | [ˈme̞ɪ̯v n̩˺] |
 | Microsoft | /ˈmaɪk ɹə sɔːft/ | [ˈmɑ̟ɪ̯kʷ ɹ̠̊ʷə sɔə̯fʔt] |
+| miscellaneous | /ˌmɪs ə ˈleɪn i əs/ | [ˌmɪ̈s ə ˈl̺ẽ̞ɪ̯̃n i‿ə̯s] |
 | module | /ˈmɑːʤ uːl/ | [ˈmɑːʷd͡ʒʷ ʊu̯ɫ̺] |
 | nginx | /ˈenʤ ɪn ˈeks/ | [ˈɛ̃nʷd͡ʒʷ ɘ̃n ˈɛks] |
 | null | /ˈnʌl/ | [ˈnʌ̟ɫ̺] |
@@ -100,6 +101,7 @@
 | sudo | /ˈsuːd uː/ | [ˈsʊu̯ɾ ʊu̯] |
 | suite | /ˈswiːt/ | [ˈsʷẘiːʔt] |
 | thymeleaf | /ˈtaɪm ˌlɪf/ | [ˈtʰɑ̟̃ɪ̯̃m ˌl̺ɪ̈f] |
+| tuple | /ˈen ˈtuːp əl/ | [ˈɛ̃n ˈtʰʊu̯p ɫ̺̩] |
 | typical | /ˈtɪp ɪ kəl/ | [ˈtʰɪ̈p ɘ kəɫ̺] |
 | Ubuntu | /ˌuː ˈbuːt ˌuː/ | [ˌʊu̯ ˈbʊu̯t ˌʊu̯] |
 | Vagrant | /ˈveɪg ɹənt/ | [ˈve̞ɪ̯ɡʷ ɹ̠ʷə̃nʔt] |

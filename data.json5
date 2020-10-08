@@ -266,6 +266,10 @@
         ph: 'M AY1 K R AH0 S AO0 F T',
     },
     {
+        word: 'miscellaneous',
+        ph: 'M IH2 S AH0 L EY1 N IY0 AH0 S',
+    },
+    {
         word: 'module',
         ph: 'M AA1 JH UW0 L',
     },
@@ -392,6 +396,10 @@
     {
         word: 'thymeleaf',
         ph: 'T AY1 M L IH2 F',
+    },
+    {
+        word: 'tuple',
+        ph: 'EH1 N T UW1 P AH0 L',
     },
     {
         word: 'typical',
