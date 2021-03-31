@@ -36,7 +36,7 @@
 | Dijkstra | /ˈdaɪk stɹə/ | [ˈdɑ̟ɪ̯k st̠͡ɹ̠̊˔ʷə] |
 | Django | /ˈʤæŋ goʊ/ | [ˈd͡ʒʷẽə̯̃ŋ ɡo̞ʊ̯] |
 | doc | /ˈdɑːk/ | [ˈdɑːk] |
-| dotnet |  |  |
+| .NET | /ˈdɑːt net/ | [ˈdɑːʔtⁿ nɛʔt] |
 | epoch | /ˈep ək/ | [ˈɛp ək] |
 | event | /ɪ ˈvent/ | [ɘ ˈvɛ̃nʔt] |
 | execute | /ˈek sə ˌkjuːt/ | [ˈɛk sə ˌkʰjʊu̯ʔt] |

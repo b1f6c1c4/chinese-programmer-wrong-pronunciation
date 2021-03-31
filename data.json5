@@ -132,7 +132,8 @@
         ph: 'D AA1 K',
     },
     {
-        word: 'dotnet',
+        word: '.NET',
+        ph: 'D AA1 T N EH T',
     },
     {
         word: 'epoch',
