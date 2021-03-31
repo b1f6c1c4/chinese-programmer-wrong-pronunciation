@@ -24,6 +24,7 @@
 | Azure | /ˈæʒ ə˞/ | [ˈæʷʒʷ ɹ̠̩] |
 | bind | /ˈbaɪnd/ | [ˈbɑ̟̃ɪ̯̃nd] |
 | cache | /ˈkæʃ/ | [ˈkʰeə̯ʷʃʷ] |
+| Chrome | /ˈkɹoʊm/ | [ˈkʰʷɹ̠̊ʷõ̞ʊ̯̃m] |
 | clang | /ˈklæŋ/ | [ˈkʰl̺̊ẽə̯̃ŋ˺] |
 | daemon | /ˈdiːm ən/ | [ˈdĩːm ə̃n˺] |
 | debt | /ˈdet/ | [ˈdɛʔt] |
@@ -35,6 +36,7 @@
 | Dijkstra | /ˈdaɪk stɹə/ | [ˈdɑ̟ɪ̯k st̠͡ɹ̠̊˔ʷə] |
 | Django | /ˈʤæŋ goʊ/ | [ˈd͡ʒʷẽə̯̃ŋ ɡo̞ʊ̯] |
 | doc | /ˈdɑːk/ | [ˈdɑːk] |
+| dotnet |  |  |
 | epoch | /ˈep ək/ | [ˈɛp ək] |
 | event | /ɪ ˈvent/ | [ɘ ˈvɛ̃nʔt] |
 | execute | /ˈek sə ˌkjuːt/ | [ˈɛk sə ˌkʰjʊu̯ʔt] |

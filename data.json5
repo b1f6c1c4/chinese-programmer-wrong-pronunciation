@@ -82,6 +82,10 @@
         ph: 'K AE1 SH',
     },
     {
+        word: 'Chrome',
+        ph: 'K R OW1 M',
+    },
+    {
         word: 'clang',
         ph: 'K L AE1 NG',
     },
@@ -126,6 +130,9 @@
     {
         word: 'doc',
         ph: 'D AA1 K',
+    },
+    {
+        word: 'dotnet',
     },
     {
         word: 'epoch',
