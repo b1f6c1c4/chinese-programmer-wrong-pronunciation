@@ -4,6 +4,7 @@
 
 | 单词 | **美式英语音位** | **正宗纽约口音** |
 | ---- | ---------------- | ---------------- |
+| .NET | /ˈdɑːt net/ | [ˈdɑːʔtⁿ nɛʔt] |
 | access | /ˈæk ˌses/ | [ˈæk ˌsɛs] |
 | admin | /ˈæd mɪn/ | [ˈeə̯ʔdⁿ mɘ̃n˺] |
 | Adobe | /ə ˈdoʊb i/ | [ə ˈdo̞ʊ̯b iː] |
@@ -36,7 +37,7 @@
 | Dijkstra | /ˈdaɪk stɹə/ | [ˈdɑ̟ɪ̯k st̠͡ɹ̠̊˔ʷə] |
 | Django | /ˈʤæŋ goʊ/ | [ˈd͡ʒʷẽə̯̃ŋ ɡo̞ʊ̯] |
 | doc | /ˈdɑːk/ | [ˈdɑːk] |
-| .NET | /ˈdɑːt net/ | [ˈdɑːʔtⁿ nɛʔt] |
+| dotnet |  |  |
 | epoch | /ˈep ək/ | [ˈɛp ək] |
 | event | /ɪ ˈvent/ | [ɘ ˈvɛ̃nʔt] |
 | execute | /ˈek sə ˌkjuːt/ | [ˈɛk sə ˌkʰjʊu̯ʔt] |
