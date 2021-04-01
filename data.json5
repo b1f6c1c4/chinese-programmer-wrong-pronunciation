@@ -137,6 +137,8 @@
     },
     {
         word: 'dotnet',
+        pos: '.NET',
+        ph: 'D AA1 T N EH T',
     },
     {
         word: 'epoch',
