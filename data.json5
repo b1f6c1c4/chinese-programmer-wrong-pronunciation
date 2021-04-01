@@ -1,5 +1,9 @@
 [
     {
+        word: '.NET',
+        ph: 'D AA1 T N EH T',
+    },
+    {
         word: 'access',
         ph: 'AE1 K S EH2 S',
     },
@@ -132,7 +136,8 @@
         ph: 'D AA1 K',
     },
     {
-        word: '.NET',
+        word: 'dotnet',
+        pos: '.NET',
         ph: 'D AA1 T N EH T',
     },
     {
