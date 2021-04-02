@@ -38,6 +38,7 @@
 | Django | /ˈʤæŋ goʊ/ | [ˈd͡ʒʷẽə̯̃ŋ ɡo̞ʊ̯] |
 | doc | /ˈdɑːk/ | [ˈdɑːk] |
 | dotnet _.NET_ | /ˈdɑːt net/ | [ˈdɑːʔtⁿ nɛʔt] |
+| ephemeral | /ɪ ˈfem ə˞ əl/ | [ɘ ˈfɛ̃m ɹ̠̩ ɫ̺̩] |
 | epoch | /ˈep ək/ | [ˈɛp ək] |
 | event | /ɪ ˈvent/ | [ɘ ˈvɛ̃nʔt] |
 | execute | /ˈek sə ˌkjuːt/ | [ˈɛk sə ˌkʰjʊu̯ʔt] |

@@ -141,6 +141,10 @@
         ph: 'D AA1 T N EH T',
     },
     {
+        word: 'ephemeral',
+        ph: 'IH0 F EH1 M ER0 AH0 L',
+    },
+    {
         word: 'epoch',
         ph: 'EH1 P AH0 K',
     },
