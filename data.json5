@@ -70,6 +70,9 @@
         ph: 'AE1 S P EH2 K T',
     },
     {
+        word: 'async',
+    },
+    {
         word: 'avatar',
         ph: 'AE1 V AH0 T AA2 R',
     },
