@@ -21,7 +21,7 @@
 | array | /ə ˈɹeɪ/ | [əʷ ˈɹ̠ʷe̞ɪ̯] |
 | ASCII | /ˈæsk i/ | [ˈæsk iː] |
 | aspect | /ˈæsp ˌekt/ | [ˈeə̯sp ˌɛk˺ʔt] |
-| async |  |  |
+| async | /ˈeɪ ˈsɪŋk/ | [ˈe̞ɪ̯ ˈsɪ̈̃ŋk] |
 | avatar | /ˈæv ə ˌtɑːɹ/ | [ˈæv ə ˌtʰɒə̯˞] |
 | Azure | /ˈæʒ ə˞/ | [ˈæʷʒʷ ɹ̠̩] |
 | bind | /ˈbaɪnd/ | [ˈbɑ̟̃ɪ̯̃nd] |
